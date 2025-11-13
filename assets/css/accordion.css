@@ -1,0 +1,37 @@
+.accordion-title {
+  cursor: pointer; }
+
+.accordion-title * {
+  pointer-events: none; }
+
+.accordion-li {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column; }
+
+.accordion-contents {
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transition: max-height 0.3s ease-in-out;
+  -o-transition: max-height 0.3s ease-in-out;
+  transition: max-height 0.3s ease-in-out; }
+
+@media (min-width: 992px) {
+  .accordion-horizontal .accordion-li {
+    min-width: var(--width);
+    width: var(--width);
+    overflow: hidden;
+    -webkit-transition: width 0.4s ease, min-width 0.4s ease;
+    -o-transition: width 0.4s ease, min-width 0.4s ease;
+    transition: width 0.4s ease, min-width 0.4s ease; }
+  .accordion-horizontal .accordion-li.active {
+    width: 100%;
+    min-width: 420px; } }
+
+@media (max-width: 991px) {
+  .accordion-title {
+    width: 100%;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between; } }

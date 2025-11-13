@@ -1,0 +1,15 @@
+.footer-main {
+  --color-background: rgba(28, 35, 39, 1);
+  --color-foreground: rgba(255, 255, 255, 1);
+  --color-foreground-heading: rgba(255, 255, 255, 1);
+  --color-primary-hover: rgba(255, 255, 255, 0.75);
+  background-color: var(--color-background);
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.footer-logo {
+  max-width: 189px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-decoration: none; }

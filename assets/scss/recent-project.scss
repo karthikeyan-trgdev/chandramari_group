@@ -1,0 +1,136 @@
+.recent-project {
+  overflow: hidden;
+}
+
+.project-media-button {
+  --style-border-width-buttons-primary: 2px;
+  --color-primary-button-border: rgba(255, 255, 255, 1);
+  --color-background: rgba(32, 40, 45, 1);
+}
+
+.project-content {
+  --color-background: rgba(32, 40, 45, 1);
+  --color-foreground-heading: rgba(255, 255, 255, 1);
+  --color-foreground: rgba(242, 242, 242, 1);
+}
+
+.project-button .button--secondary:focus,
+.project-button .button--secondary:hover {
+  --color-secondary-button-hover-border: rgba(255, 255, 255, 0.3);
+}
+
+.recent-project .section-headings-right {
+  min-width: 450px;
+  width: 450px;
+}
+
+.project-media {
+  margin-block-start: 60px;
+}
+
+.project-img-large {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.project-img {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+
+.project-img img {
+  object-fit: cover;
+  height: auto;
+}
+
+.project-media-button {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  text-decoration: none;
+  position: absolute;
+  bottom: -30px;
+  z-index: 2;
+  padding: 0;
+}
+
+.project-button .button--secondary:focus,
+.project-button .button--secondary:hover {
+  color: var(--color-secondary-button-hover-text);
+  background-color: var(--color-secondary-button-hover-background);
+  border: var(--style-border-width-buttons-secondary) solid
+    var(--color-secondary-button-hover-border);
+}
+
+.project-media-button svg {
+  min-width: 28px;
+  height: 28px;
+}
+
+.project-content {
+  max-width: 645px;
+  margin-inline-start: auto;
+  background-color: var(--color-background);
+  padding: 40px;
+  margin-block-start: -160px;
+  z-index: 3;
+  position: relative;
+}
+
+.project-grid .card-project img {
+  transition: all 0.3s;
+}
+
+.project-grid .card-project:hover > img {
+  transform: scale(1.05);
+  transition: all 0.3s;
+}
+
+@media (max-width: 1199px) {
+  .project-content {
+    max-width: 510px;
+    padding: 32px 24px;
+  }
+}
+
+@media (max-width: 991px) {
+  .recent-project .section-headings-horizontal {
+    flex-wrap: wrap;
+  }
+
+  .recent-project .section-headings-right {
+    min-width: 100%;
+  }
+
+  .project-media {
+    margin-block-start: 40px;
+  }
+
+  .project-img-small {
+    margin-block-start: 48px;
+  }
+
+  .project-content {
+    max-width: 100%;
+    margin-block-start: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .project-media-button {
+    width: 48px;
+    height: 48px;
+    bottom: -24px;
+  }
+
+  .project-media-button svg {
+    min-width: 20px;
+    height: 20px;
+  }
+
+  .project-content {
+    padding: 24px 16px 30px;
+  }
+}

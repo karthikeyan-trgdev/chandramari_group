@@ -1,0 +1,13 @@
+.section-error {
+  overflow: hidden; }
+
+.error-media img {
+  -o-object-fit: contain;
+  object-fit: contain;
+  height: auto;
+  width: auto;
+  margin: 0 auto; }
+
+.section-error .section-headings .text {
+  max-width: 570px;
+  margin: 40px auto 0; }

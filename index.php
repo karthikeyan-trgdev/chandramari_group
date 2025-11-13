@@ -1,0 +1,1637 @@
+<!doctype html>
+<html lang="en" class="no-js">
+
+<head>
+    <title>Chandramari Group</title>
+    <link
+        rel="shortcut icon"
+        href="assets/img/cmg/favicon.png"
+        type="image/x-icon">
+
+    <!-- meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="view-transition" content="same-origin">
+    <meta name="theme-color" content="Red">
+    <meta property="og:site_name" content="Chandramari Group">
+    <meta property="og:title" content="Creative Business Consulting Template">
+    <meta
+        property="og:description"
+        content="Chandramari Group stands as the parent organization uniting seven dynamic companies under one powerful vision.">
+    <meta
+        name="description"
+        content="Chandramari Group stands as the parent organization uniting seven dynamic companies under one powerful vision.">
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+    <!-- all css -->
+    <link rel="stylesheet" href="assets/css/vendor.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <!-- Header 2 -->
+    <sticky-header data-sticky-type="always">
+        <header class="header-2 header-floating">
+            <div class="container-fluid">
+                <div class="header-grid">
+                    <a class="header-logo" href="index.php" aria-label="Consulo">
+                        <img
+                            src="assets/img/chandramani-logo-2.png"
+                            alt="Chandramari Group">
+                    </a>
+                    <drawer-menu>
+                        <nav class="header-nav drawer-menu">
+                            <div class="d-lg-none header-nav-headings">
+                                <a class="header-logo" href="index.php" aria-label="Consulo">
+                                    <img
+                                        src="assets/img/chandramani-logo-2.png"
+                                        alt="Chandramari Group"
+                                        width="189"
+                                        height="32"
+                                        loading="lazy">
+                                </a>
+                                <drawer-opener
+                                    class="svg-wrapper menu-close"
+                                    data-drawer=".drawer-menu">
+                                    <svg
+                                        width="30px"
+                                        height="30px"
+                                        viewBox="0 0 24 24"
+                                        fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M8.00386 9.41816C7.61333 9.02763 7.61334 8.39447 8.00386 8.00395C8.39438 7.61342 9.02755 7.61342 9.41807 8.00395L12.0057 10.5916L14.5907 8.00657C14.9813 7.61605 15.6144 7.61605 16.0049 8.00657C16.3955 8.3971 16.3955 9.03026 16.0049 9.42079L13.4199 12.0058L16.0039 14.5897C16.3944 14.9803 16.3944 15.6134 16.0039 16.0039C15.6133 16.3945 14.9802 16.3945 14.5896 16.0039L12.0057 13.42L9.42097 16.0048C9.03045 16.3953 8.39728 16.3953 8.00676 16.0048C7.61624 15.6142 7.61624 14.9811 8.00676 14.5905L10.5915 12.0058L8.00386 9.41816Z"
+                                            fill="currentColor" />
+                                        <path
+                                            fill-rule="evenodd"
+                                            clip-rule="evenodd"
+                                            d="M23 12C23 18.0751 18.0751 23 12 23C5.92487 23 1 18.0751 1 12C1 5.92487 5.92487 1 12 1C18.0751 1 23 5.92487 23 12ZM3.00683 12C3.00683 16.9668 7.03321 20.9932 12 20.9932C16.9668 20.9932 20.9932 16.9668 20.9932 12C20.9932 7.03321 16.9668 3.00683 12 3.00683C7.03321 3.00683 3.00683 7.03321 3.00683 12Z"
+                                            fill="currentColor" />
+                                    </svg>
+                                </drawer-opener>
+                            </div>
+                            <ul class="header-menu list-unstyled">
+                                <li class="nav-item">
+                                    <a class="menu-link menu-link-main" href="index.php">
+                                        Home
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="menu-link menu-link-main" href="#">
+                                        About Us
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="menu-link menu-link-main menu-accrodion" href="#">
+                                        Our Sectors
+                                        <svg
+                                            width="10"
+                                            height="5"
+                                            viewBox="0 0 10 5"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M5 5L0 0H10L5 5Z" fill="currentColor" />
+                                        </svg>
+                                    </a>
+                                    <div class="menu-absolute header-submenu submenu-color">
+                                        <ul class="list-unstyled">
+                                            <li class="nav-item">
+                                                <a class="menu-link" href="#">Interior Fit-outs</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="menu-link" href="#">Edutech</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="menu-link" href="#">Technologies</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="menu-link" href="#">Food & Beverages</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="menu-link" href="#">Service</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="menu-link menu-link-main" href="#">
+                                        Our Events
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="menu-link menu-link-main" href="#">
+                                        Contact Us
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="drawer-content d-lg-none">
+                                <div class="drawer-block drawer-block-contact">
+                                    <div class="drawer-heading text text-18">Quick Contact</div>
+                                    <ul
+                                        class="drawer-additional-menu list-unstyled flex-direction-column">
+                                        <li class="nav-item">
+                                            <div class="menu-link no-hover">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    fill="none"
+                                                    viewBox="0 0 24 24"
+                                                    stroke-width="1.5"
+                                                    stroke="currentColor"
+                                                    class="size-6">
+                                                    <path
+                                                        stroke-linecap="round"
+                                                        stroke-linejoin="round"
+                                                        d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
+                                                    <path
+                                                        stroke-linecap="round"
+                                                        stroke-linejoin="round"
+                                                        d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
+                                                </svg>
+                                                Office No. 1, Al Qusais Industrial Area 2, Al Qusais, Dubai
+                                            </div>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="menu-link" href="#">
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    fill="none"
+                                                    viewBox="0 0 24 24"
+                                                    stroke-width="1.5"
+                                                    stroke="currentColor"
+                                                    class="size-6">
+                                                    <path
+                                                        stroke-linecap="round"
+                                                        stroke-linejoin="round"
+                                                        d="M21.75 9v.906a2.25 2.25 0 0 1-1.183 1.981l-6.478 3.488M2.25 9v.906a2.25 2.25 0 0 0 1.183 1.981l6.478 3.488m8.839 2.51-4.66-2.51m0 0-1.023-.55a2.25 2.25 0 0 0-2.134 0l-1.022.55m0 0-4.661 2.51m16.5 1.615a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V8.844a2.25 2.25 0 0 1 1.183-1.981l7.5-4.039a2.25 2.25 0 0 1 2.134 0l7.5 4.039a2.25 2.25 0 0 1 1.183 1.98V19.5Z" />
+                                                </svg>
+                                                murali@toprockinteriors.com
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </nav>
+                    </drawer-menu>
+                    <div class="header-actions d-flex align-items-center">
+                        <a
+                            href="#"
+                            aria-label="contact us"
+                            class="button button--primary button--slim">
+                            Get in Touch
+                            <span class="svg-wrapper">
+                                <svg
+                                    class="icon-20"
+                                    width="20"
+                                    height="20"
+                                    viewBox="0 0 20 20"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M13.3365 7.84518L6.16435 15.0173L4.98584 13.8388L12.158 6.66667H5.83652V5H15.0032V14.1667H13.3365V7.84518Z"
+                                        fill="currentColor"></path>
+                                </svg>
+                            </span>
+                        </a>
+                        <drawer-opener
+                            class="svg-wrapper menu-open d-lg-none"
+                            data-drawer=".drawer-menu">
+                            <svg
+                                width="52"
+                                height="52"
+                                viewBox="0 0 52 52"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <circle
+                                    cx="26"
+                                    cy="26"
+                                    r="25.5"
+                                    fill="white"
+                                    stroke="currentColor" />
+                                <path
+                                    d="M32.5 18.2857C32.5 17.5757 31.9179 17 31.2 17H14.3C13.5821 17 13 17.5757 13 18.2857C13 18.9958 13.5821 19.5714 14.3 19.5714H31.2C31.9179 19.5714 32.5 18.9957 32.5 18.2857ZM14.3 24.7143H37.7C38.4179 24.7143 39 25.29 39 26C39 26.7101 38.4179 27.2857 37.7 27.2857H14.3C13.5821 27.2857 13 26.7101 13 26C13 25.29 13.5821 24.7143 14.3 24.7143ZM14.3 32.4286H26C26.7179 32.4286 27.3 33.0042 27.3 33.7143C27.3 34.4243 26.7179 35 26 35H14.3C13.5821 35 13 34.4243 13 33.7143C13 33.0042 13.5821 32.4286 14.3 32.4286Z"
+                                    fill="currentColor" />
+                            </svg>
+                        </drawer-opener>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </sticky-header>
+
+
+    <!-- Main -->
+    <main>
+        <!-- Hero Banner -->
+        <div class="hero-banner with-floating-header">
+            <div class="media media-bg">
+                <img
+                    src="assets/img/cmg/banner-bg.jpg"
+                    alt="slider background"
+                    width="1920"
+                    height="1000"
+                    loading="eager">
+            </div>
+            <div class="container-fluid">
+                <div class="row align-items-center">
+                    <div class="col-lg-7 col-12">
+                        <div class="content section-headings">
+                            <div
+                                class="subheading text-20 subheading-bg"
+                                data-aos="fade-up">
+                                <svg
+                                    class="icon icon-14"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="14"
+                                    height="14"
+                                    viewBox="0 0 14 14"
+                                    fill="none">
+                                    <g clip-path="url(#clip0_9088_4143)">
+                                        <path
+                                            d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                            fill="CurrentColor" />
+                                    </g>
+                                    <defs>
+                                        <clipPath>
+                                            <rect width="14" height="14" fill="CurrentColor" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                                <span>Connecting Excellence Across Industries</span>
+                                <svg
+                                    class="icon icon-14"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="14"
+                                    height="14"
+                                    viewBox="0 0 14 14"
+                                    fill="none">
+                                    <g clip-path="url(#clip0_9088_4143)">
+                                        <path
+                                            d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                            fill="CurrentColor" />
+                                    </g>
+                                    <defs>
+                                        <clipPath>
+                                            <rect width="14" height="14" fill="CurrentColor" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </div>
+                            <h2
+                                class="heading text-80 fw-700"
+                                data-aos="fade-up"
+                                data-aos-delay="100">
+                                One Vision<br>
+                                <span class="decorated-text"><span>Many Verticals</span></span><br>
+                                Endless Possibilities.
+                            </h2>
+                            <div
+                                class="text text-18"
+                                data-aos="fade-up"
+                                data-aos-delay="150">Chandramari Group stands as the parent organization uniting seven dynamic companies under one powerful vision. Each vertical operates independently yet shares the same values of innovation, quality, and integrity.</div>
+                            <div
+                                class="hero-button-wrap buttons"
+                                data-aos="fade-up"
+                                data-aos-delay="200">
+                                <a
+                                    href="#"
+                                    class="button button--primary"
+                                    aria-label="hero button">
+                                    Get Started
+                                    <span class="svg-wrapper">
+                                        <svg
+                                            class="icon-20"
+                                            width="20"
+                                            height="20"
+                                            viewBox="0 0 20 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M13.3365 7.84518L6.16435 15.0173L4.98584 13.8388L12.158 6.66667H5.83652V5H15.0032V14.1667H13.3365V7.84518Z"
+                                                fill="currentColor" />
+                                        </svg>
+                                    </span>
+                                </a>
+                                <a
+                                    href="#"
+                                    class="hero-phone-call"
+                                    aria-label="Phone number"
+                                    data-aos="fade-up"
+                                    data-aos-delay="50">
+                                    <div class="icon">
+                                        <img src="assets/img/cmg/banner-mail-icon.png" alt="" style="width: 40px;">
+                                    </div>
+                                    <div class="hero-call">
+                                        <div class="text text-14">Need help?</div>
+                                        <div class="text text-16">info@chandramarigroup.com</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-12">
+                        <banner-slider class="banner-slider">
+                            <div class="banner-badge svg-wrapper" data-aos="fade-right">
+                                <img class="infinite-rotate" src="assets/img/cmg/banner-rotate-icon.png" alt="">
+                            </div>
+                            <div class="main-slider" data-aos="fade-down">
+                                <div class="main-img">
+                                    <img
+                                        src="assets/img/cmg/banner-image-2.png"
+                                        width="992"
+                                        height="717"
+                                        loading="eager"
+                                        alt="Image">
+                                </div>
+                            </div>
+                        </banner-slider>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Image Text -->
+        <div class="image-text mt-100">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 col-12">
+                        <div class="media-wrap">
+                            <img
+                                src="assets/img/cmg/about-image.jpg"
+                                style="border-radius: 20px;"
+                                width="992"
+                                height="863"
+                                loading="lazy"
+                                alt="Image"
+                                data-aos="zoom-in-up">
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-12">
+                        <div class="content section-headings">
+                            <div
+                                class="subheading text-20 subheading-bg"
+                                data-aos="fade-up">
+                                <svg
+                                    class="icon icon-14"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="14"
+                                    height="14"
+                                    viewBox="0 0 14 14"
+                                    fill="none">
+                                    <g clip-path="url(#clip0_9088_4143)">
+                                        <path
+                                            d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                            fill="CurrentColor" />
+                                    </g>
+                                    <defs>
+                                        <clipPath>
+                                            <rect width="14" height="14" fill="CurrentColor" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                                <span>About Our Company</span>
+                                <svg
+                                    class="icon icon-14"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="14"
+                                    height="14"
+                                    viewBox="0 0 14 14"
+                                    fill="none">
+                                    <g clip-path="url(#clip0_9088_4143)">
+                                        <path
+                                            d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                            fill="CurrentColor" />
+                                    </g>
+                                    <defs>
+                                        <clipPath>
+                                            <rect width="14" height="14" fill="CurrentColor" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </div>
+                            <h2
+                                class="heading text-50"
+                                data-aos="fade-up"
+                                data-aos-delay="50">
+                                Creating Impact Through Boundless Innovation
+                            </h2>
+                            <div
+                                class="text text-18"
+                                data-aos="fade-up"
+                                data-aos-delay="80">
+                                At Chandramari Group, we believe in creating impact through boundless innovation. Our journey is driven by a passion for excellence and a commitment to transform visionary ideas into meaningful realities.</div>
+                            <ul class="list-block list-unstyled">
+                                <li
+                                    class="text-item text text-18"
+                                    data-aos="fade-up"
+                                    data-aos-delay="100">
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        width="60"
+                                        height="60"
+                                        viewBox="0 0 60 60"
+                                        fill="none">
+                                        <circle cx="30" cy="30" r="29.5" stroke="#1C2539" />
+                                        <g clip-path="url(#clip0_9088_7871)">
+                                            <path
+                                                d="M17.6645 23.0585C17.9536 23.0713 18.1997 22.8406 18.2097 22.5496L18.2916 20.171H19.8332L19.8752 23.414C19.8776 23.6041 19.9822 23.7782 20.149 23.8696C20.2281 23.913 20.3153 23.9345 20.4025 23.9345C20.499 23.9345 20.5954 23.908 20.6804 23.8554L23.0793 22.3682C23.4423 22.1432 23.8385 21.9858 24.257 21.9001L26.0346 21.5365C26.2934 22.4812 26.9984 23.2578 27.9438 23.5951C28.4258 23.7671 28.9633 23.6936 29.3816 23.3988C29.7998 23.104 30.0495 22.6224 30.0495 22.1107V21.4152C31.3436 21.3001 32.5622 20.7633 33.5262 19.8745L35.1291 18.3968C35.3432 18.1994 35.3568 17.8657 35.1594 17.6515C34.9619 17.4374 34.6283 17.4239 34.4141 17.6212L32.8112 19.0989C32.0429 19.8073 31.0773 20.2424 30.0495 20.3541V19.4985C30.3096 19.3462 30.5363 19.1366 30.7068 18.8822C31.3934 17.857 31.5003 16.5734 30.9927 15.4487C30.8117 15.0655 30.7404 14.8867 30.5598 14.5411C30.6899 14.4487 30.7951 14.321 30.8593 14.1678C30.9929 13.8489 30.9252 13.4808 30.6867 13.2299C30.3259 12.8504 29.6593 12.3448 28.533 12.0921C27.3385 11.8242 26.3261 12.15 25.7719 12.9473C25.182 12.9439 24.3397 13.2015 23.9312 14.2172C23.3791 15.5897 23.8024 16.9465 25.0634 17.8468C25.223 17.958 25.5552 18.1053 25.8893 18.0809C26.0727 18.3439 26.2575 18.5924 26.5698 18.8814L26.0545 20.4559L24.0457 20.8668C23.5049 20.9774 22.9928 21.181 22.5236 21.4718L20.9177 22.4673L20.853 17.4732C20.8406 16.5142 20.0503 15.734 19.0912 15.734C18.1366 15.734 17.3631 16.4814 17.3303 17.4354C17.2871 18.691 17.1986 21.2624 17.1556 22.5134C17.1456 22.8044 17.3734 23.0485 17.6645 23.0585ZM29.8306 18.2952C29.6657 18.5413 29.3909 18.6999 29.0955 18.7196C28.2307 18.7771 27.4117 18.3914 26.9055 17.6873L26.8234 17.5731C26.9393 17.4164 27.0189 17.2324 27.0519 17.0322C27.1102 16.6636 27.2776 16.1451 27.4864 15.7812C27.872 15.1088 28.6831 14.8455 29.3986 14.7512C29.6197 14.9309 29.9074 15.5952 30.0315 15.8825C30.3881 16.6729 30.313 17.5749 29.8306 18.2952ZM26.5029 13.802C26.7417 13.2068 27.2556 13.0528 27.7233 13.0528C28.2626 13.0354 29.2258 13.3744 29.5923 13.6708C28.7134 13.7436 27.5391 14.0128 26.8322 14.8713C26.6729 14.7728 26.5603 14.6535 26.4959 14.5147C26.357 14.2157 26.4662 13.8936 26.5029 13.802ZM24.9098 14.6107C25.0278 14.3171 25.2032 14.1617 25.3753 14.0814C25.3597 14.3876 25.4141 14.6894 25.5392 14.9589C25.6568 15.2122 25.8825 15.531 26.3114 15.7873C26.1751 16.1203 26.0742 16.4791 26.0113 16.8603C25.9955 16.9552 25.928 16.9964 25.8892 17.0126C25.8552 17.0267 25.7663 17.0524 25.6763 16.9882C24.8007 16.3631 24.5356 15.541 24.9098 14.6107ZM28.9241 19.7801C28.9477 19.7801 28.9713 19.7794 28.9949 19.7789V22.1106C28.9949 22.2824 28.9143 22.4376 28.7739 22.5367C28.6336 22.6358 28.4602 22.6594 28.2984 22.6017C27.587 22.3478 27.0852 21.7127 26.9966 20.9681L27.4851 19.4755C27.9316 19.6741 28.42 19.7801 28.9241 19.7801ZM19.0913 16.7887C19.4763 16.7887 19.7934 17.1018 19.7984 17.4867L19.8195 19.1163H18.3278L18.3844 17.4716C18.3977 17.0886 18.7081 16.7887 19.0913 16.7887Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M40.5805 44.8109H39.7454L39.8653 37.543C39.8785 36.7532 39.5412 36.0061 38.9402 35.4933L36.6506 33.5403C36.4289 33.3511 36.0961 33.3777 35.9071 33.5993C35.7181 33.8208 35.7446 34.1537 35.9661 34.3427L38.2557 36.2958C38.6163 36.6034 38.8186 37.0516 38.8108 37.5255L38.6906 44.8109H37.3269L36.5306 42.2281C36.213 41.1978 36.2378 40.0714 36.6004 39.0562L36.823 38.4328C36.8725 38.294 36.8618 38.1409 36.7933 38.0104C36.7248 37.8799 36.605 37.784 36.4627 37.7459L30.6868 36.1996L30.5948 34.3953C30.5801 34.1044 30.3345 33.8792 30.0413 33.8955C29.7504 33.9103 29.5266 34.1581 29.5415 34.449L29.8263 40.0356C29.8571 40.6418 29.547 41.2022 29.0167 41.4979L28.294 41.901C28.0396 42.0429 27.9484 42.364 28.0903 42.6184C28.1868 42.7915 28.3664 42.889 28.5514 42.889C28.6383 42.889 28.7265 42.8675 28.8078 42.8222L29.5305 42.4191C30.4142 41.9262 30.9312 40.9924 30.8797 39.9819L30.7433 37.3067L35.6373 38.6169C35.1928 39.7857 35.1262 41.2859 35.5228 42.5389L36.4015 45.3893V46.7853C36.4015 47.456 36.9472 48.0017 37.6179 48.0017H42.0965C42.5012 48.0017 42.8305 47.6723 42.8305 47.2677V47.061C42.8305 45.8202 41.8212 44.8109 40.5805 44.8109ZM37.6179 46.9468C37.5287 46.9468 37.4562 46.8743 37.4562 46.7851V45.8656H40.5806C41.2011 45.8656 41.7128 46.3411 41.7704 46.9468H37.6179Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M26.1036 36.7365C25.4655 35.2029 25.2087 33.5316 25.3546 31.8796L31.6141 30.6277L34.0866 32.7368C34.3082 32.9259 34.6411 32.8994 34.83 32.6778C35.019 32.4562 34.9926 32.1233 34.771 31.9343L32.3587 29.8764L33.6032 25.3202C33.6523 25.1402 33.7435 24.9712 33.8668 24.8312C35.039 23.5 41.5132 16.151 42.5131 15.0151C43.1031 14.3454 43.1149 13.363 42.5411 12.6792C42.2232 12.3004 41.7765 12.0744 41.2831 12.0429C40.789 12.0112 40.3177 12.1785 39.9543 12.5135C39.0336 13.3623 37.1142 15.1317 36.1987 15.9758C35.9846 16.1732 35.971 16.5069 36.1684 16.7211C36.366 16.9351 36.6994 16.9486 36.9137 16.7514L38.6546 15.1464L39.8769 16.4122L33.0753 24.1339C32.8462 24.3939 32.6769 24.708 32.5856 25.0423L31.3388 29.607C30.2809 29.8186 26.1948 30.6358 25.2521 30.8244L24.141 26.7059C24.0544 26.3846 23.8469 26.1177 23.557 25.9544C23.267 25.7909 22.9313 25.7519 22.6115 25.8442L19.1776 26.836C18.9126 26.9123 18.6362 26.8591 18.4186 26.6897C18.2012 26.5202 18.0819 26.265 18.0914 25.9895L18.1253 25.0028C18.1354 24.7117 17.9075 24.4677 17.6164 24.4576C17.3274 24.4452 17.0813 24.6754 17.0713 24.9665L17.0373 25.9532C17.016 26.5703 17.2832 27.142 17.7704 27.5216C18.2575 27.9012 18.877 28.0206 19.4703 27.8493L22.9042 26.8575C22.9658 26.8397 23.0154 26.8597 23.0393 26.8733C23.0633 26.8868 23.106 26.9187 23.1228 26.9806L24.3366 31.4801C24.1139 33.4007 24.3868 35.3559 25.1298 37.1416L26.0376 39.3235L25.6865 39.4013C24.366 39.6944 23.2072 40.4631 22.4239 41.566L20.2228 44.665C19.9891 44.994 19.8656 45.3812 19.8656 45.7847V46.783C19.8656 47.4538 20.4113 47.9994 21.082 47.9994H25.5606C25.9653 47.9994 26.2946 47.67 26.2946 47.2654V47.0587C26.2946 46.1293 25.7281 45.3297 24.9222 44.987L26.7053 43.9926C26.9597 43.8508 27.0509 43.5296 26.909 43.2752C26.7671 43.0208 26.4458 42.9295 26.1915 43.0715L23.0763 44.8088H21.4143L23.2837 42.1768C23.9154 41.2874 24.8499 40.6674 25.9149 40.4311L26.8804 40.2169C27.0327 40.1832 27.1623 40.0836 27.2342 39.9452C27.3061 39.8067 27.3131 39.6436 27.2532 39.4995L26.1036 36.7365ZM39.4303 14.4313L40.6693 13.2891C40.8188 13.1513 41.0126 13.0826 41.2157 13.0955C41.4186 13.1085 41.6024 13.2014 41.733 13.3572C41.969 13.6384 41.9642 14.0425 41.7216 14.318L40.5763 15.6181L39.4303 14.4313ZM24.0447 45.8635C24.6652 45.8635 25.1768 46.339 25.2344 46.9447H21.0819C20.9927 46.9447 20.9202 46.8722 20.9202 46.7831V45.8635H24.0447Z"
+                                                fill="CurrentColor" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_9088_7871">
+                                                <rect
+                                                    width="36"
+                                                    height="36"
+                                                    fill="white"
+                                                    transform="translate(12 12)" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    <h3 class="title text text-22 fw-600">Our ambition</h3>
+                                    <div class="text text-16">
+                                        We strive to lead with vision, shaping a future where possibilities know no limits.
+                                    </div>
+                                </li>
+                                <li
+                                    class="text-item text text-18"
+                                    data-aos="fade-up"
+                                    data-aos-delay="200">
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        width="60"
+                                        height="60"
+                                        viewBox="0 0 60 60"
+                                        fill="none">
+                                        <circle cx="30" cy="30" r="29.5" stroke="#1C2539" />
+                                        <g clip-path="url(#clip0_9088_7881)">
+                                            <path
+                                                d="M30.2367 26.3969C29.9451 26.3727 29.6871 26.591 29.6632 26.8839L29.5444 28.3407C29.3383 28.2575 29.1135 28.2112 28.878 28.2112H28.6278V26.8196C28.6278 26.1923 28.1175 25.6819 27.4902 25.6819H25.3008C23.6635 25.6819 22.0433 25.137 20.7387 24.1476L20.488 23.9575C20.2973 23.8129 20.062 23.7528 19.8255 23.7878C19.5889 23.823 19.3813 23.949 19.241 24.1428C18.5807 25.0547 18.2317 26.1318 18.2317 27.2577V28.2112H17.9815C17.7556 28.2112 17.5394 28.2539 17.3403 28.3307L16.8959 25.1623C16.8345 24.7242 16.852 24.2829 16.948 23.8506C17.0117 23.5639 16.831 23.2797 16.5442 23.216C16.2574 23.1521 15.9732 23.3331 15.9095 23.6198C15.7857 24.1768 15.7632 24.7454 15.8422 25.3101L16.387 29.1942C16.2649 29.4358 16.1956 29.7085 16.1956 29.9972C16.1956 30.9821 16.9968 31.7833 17.9817 31.7833H18.2478C18.3716 33.4531 19.2868 34.9052 20.6197 35.7654V37.1111L16.9487 38.8461C14.3185 40.089 12.6191 42.7718 12.6191 45.6807V47.4674C12.6191 47.7612 12.8573 47.9993 13.1511 47.9993C13.445 47.9993 13.6831 47.7612 13.6831 47.4674V45.6807C13.6831 43.1812 15.1433 40.8761 17.4031 39.808L20.7367 38.2325C21.073 39.3302 22.0957 40.1307 23.3021 40.1307C24.5084 40.1307 25.5312 39.3301 25.8674 38.2325L29.2013 39.8081L29.2547 39.8346C29.3297 39.871 29.4089 39.8882 29.4868 39.8882C29.6842 39.8882 29.8737 39.778 29.9657 39.5886C30.0941 39.3243 29.984 39.0061 29.7198 38.8777L29.7013 38.8686C29.6861 38.8609 29.6709 38.8533 29.6556 38.8461L25.9846 37.1111V35.9201C27.4549 35.0865 28.4803 33.5578 28.6118 31.7834H28.8779C29.8628 31.7834 30.664 30.9821 30.664 29.9973C30.664 29.759 30.6167 29.5318 30.5317 29.3237L30.7236 26.9704C30.7475 26.6775 30.5295 26.4208 30.2367 26.3969ZM17.2593 29.9972C17.2593 29.599 17.5833 29.2751 17.9815 29.2751H18.2316V30.7194H17.9815C17.5833 30.7194 17.2593 30.3954 17.2593 29.9972ZM24.9208 37.4481C24.9208 38.3406 24.1947 39.0668 23.3021 39.0668C22.4095 39.0668 21.6834 38.3406 21.6834 37.4481V36.2914C22.2296 36.4868 22.8173 36.5941 23.4298 36.5941C23.9479 36.5941 24.4482 36.5168 24.9208 36.375V37.4481ZM27.5639 31.3959C27.5639 33.6755 25.7093 35.5301 23.4298 35.5301C21.1502 35.5301 19.2956 33.6755 19.2956 31.3959V27.2577C19.2956 26.4198 19.5373 25.6156 19.9966 24.9201L20.0958 24.9954C21.5842 26.1242 23.4327 26.7458 25.3008 26.7458H27.4902C27.5308 26.7458 27.5639 26.7789 27.5639 26.8196V31.3959ZM28.878 30.7194H28.6278V29.2751H28.878C29.2761 29.2751 29.6001 29.599 29.6001 29.9972C29.6001 30.3954 29.2762 30.7194 28.878 30.7194Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M17.4977 22.2682C17.638 22.2682 17.7781 22.213 17.8826 22.1035C18.4046 21.5567 19.0725 21.188 19.8141 21.0374C19.8484 21.0304 19.882 21.02 19.9144 21.0064L21.643 20.2796C24.0632 19.262 26.8038 19.9557 28.462 22.0064C28.6468 22.2348 28.9819 22.2702 29.2102 22.0854C29.4387 21.9007 29.4741 21.5657 29.2894 21.3373C28.3772 20.2094 27.1072 19.3774 25.7135 18.9944C24.2261 18.5858 22.6761 18.691 21.2307 19.2988L19.5492 20.0058C18.6147 20.2065 17.7734 20.6771 17.113 21.3689C16.9101 21.5814 16.9179 21.9182 17.1304 22.121C17.2336 22.2194 17.3657 22.2682 17.4977 22.2682Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M30.9625 40.2847C30.757 40.4945 30.7603 40.8313 30.9702 41.0369C32.21 42.2518 32.9211 43.9429 32.9211 45.6767V47.4634C32.9211 47.7572 33.1592 47.9954 33.4531 47.9954C33.7469 47.9954 33.985 47.7572 33.985 47.4634V45.6767C33.985 43.6588 33.1576 41.6906 31.7148 40.277C31.5049 40.0715 31.1682 40.0747 30.9625 40.2847Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M17.1511 44.6719C16.8573 44.6719 16.6191 44.9101 16.6191 45.2038V47.4677C16.6191 47.7615 16.8573 47.9997 17.1511 47.9997C17.445 47.9997 17.6831 47.7615 17.6831 47.4677V45.2038C17.6831 44.9101 17.445 44.6719 17.1511 44.6719Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M29.4529 44.6719C29.159 44.6719 28.9209 44.9101 28.9209 45.2038V47.4677C28.9209 47.7615 29.159 47.9997 29.4529 47.9997C29.7467 47.9997 29.9848 47.7615 29.9848 47.4677V45.2038C29.9848 44.9101 29.7467 44.6719 29.4529 44.6719Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M39.8362 23.1695C39.5837 23.3197 39.5008 23.6462 39.6511 23.8987C39.7506 24.0659 39.9275 24.1586 40.1088 24.1586C40.2013 24.1586 40.2951 24.1345 40.3803 24.0837C41.976 23.1341 42.9672 21.3925 42.9672 19.5386C42.9672 19.3859 42.9598 19.2301 42.9449 19.0625C42.9187 18.7699 42.6601 18.5545 42.3675 18.5802C42.0748 18.6065 41.8589 18.865 41.8852 19.1576C41.8974 19.2933 41.9033 19.4179 41.9033 19.5387C41.9033 21.0194 41.1112 22.4106 39.8362 23.1695Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M37.6812 15.314C38.3764 15.314 39.0658 15.4869 39.6749 15.8138C39.9337 15.9527 40.2561 15.8556 40.3951 15.5967C40.5341 15.3378 40.4369 15.0153 40.178 14.8764C39.4147 14.4666 38.5513 14.25 37.6812 14.25C34.7661 14.25 32.3945 16.6216 32.3945 19.5366C32.3945 22.4517 34.7661 24.8233 37.6812 24.8233C37.7694 24.8233 37.8598 24.821 37.9499 24.8165C38.2434 24.8018 38.4693 24.552 38.4546 24.2585C38.4399 23.9651 38.1918 23.7386 37.8967 23.7538C37.8243 23.7574 37.7517 23.7593 37.6812 23.7593C35.3528 23.7593 33.4585 21.865 33.4585 19.5366C33.4585 17.2082 35.3528 15.314 37.6812 15.314Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M46.9867 15.1394L45.5427 14.3323L45.3644 12.6877C45.3352 12.4185 45.1714 12.189 44.9264 12.0738C44.6811 11.9587 44.4001 11.9792 44.1742 12.1286L41.7744 13.7166C41.5333 13.8762 41.4028 14.1539 41.4339 14.4415L41.6333 16.2811L39.7795 17.5078C39.2483 16.9579 38.5042 16.6149 37.6811 16.6149C36.0714 16.6149 34.7617 17.9246 34.7617 19.5343C34.7617 21.144 36.0714 22.4536 37.6811 22.4536C39.2908 22.4536 40.6004 21.144 40.6004 19.5343C40.6004 19.1299 40.5176 18.7445 40.3683 18.394L42.2204 17.1684L43.8357 18.0713C43.9532 18.137 44.0825 18.1696 44.2114 18.1696C44.3594 18.1696 44.5071 18.1266 44.6361 18.0413L47.0358 16.4533C47.2617 16.304 47.3905 16.0532 47.3803 15.7826C47.3703 15.512 47.2231 15.2716 46.9867 15.1394ZM39.5365 19.5344C39.5365 20.5574 38.7043 21.3897 37.6812 21.3897C36.6581 21.3897 35.8257 20.5574 35.8257 19.5344C35.8257 18.5113 36.6581 17.6789 37.6812 17.6789C38.1327 17.6789 38.547 17.8413 38.8691 18.1104L37.3877 19.0907C37.1427 19.2528 37.0755 19.5829 37.2376 19.8279C37.3399 19.9826 37.5092 20.0664 37.6817 20.0664C37.7825 20.0664 37.8845 20.0378 37.9748 19.978L39.457 18.9972C39.5085 19.1674 39.5365 19.3476 39.5365 19.5344ZM42.511 14.5051L44.3587 13.2824L44.4797 14.3979L42.632 15.6205L42.511 14.5051ZM44.1985 17.0552L43.219 16.5078L43.9407 16.0303L45.0668 15.2851L46.0462 15.8326L44.1985 17.0552Z"
+                                                fill="CurrentColor" />
+                                            <path
+                                                d="M44.6027 19.2041C44.307 19.1948 44.0641 19.427 44.0558 19.7207C44.009 21.3665 43.3296 22.9146 42.1428 24.0802C40.9554 25.2464 39.3937 25.8976 37.7454 25.914C36.1035 25.9302 34.5416 25.325 33.3412 24.21C33.2333 24.1097 33.0883 24.0588 32.9417 24.0691L30.3382 24.2528L31.6639 22.3008C31.7617 22.157 31.7829 21.9744 31.7208 21.812C31.4215 21.0291 31.2816 20.203 31.3048 19.3568C31.399 15.9267 34.2539 13.1578 37.6819 13.1578C37.7007 13.1578 37.72 13.1578 37.7387 13.158C38.5193 13.165 39.281 13.3117 40.0031 13.5941C40.2767 13.7011 40.5854 13.5662 40.6923 13.2925C40.7993 13.019 40.6643 12.7103 40.3907 12.6033C39.5477 12.2735 38.6586 12.1022 37.7483 12.094C37.7261 12.0938 37.7041 12.0938 37.6819 12.0938C33.6826 12.0938 30.3512 15.3251 30.2413 19.3275C30.2168 20.2193 30.3481 21.0925 30.6316 21.9272L29.2334 23.9857C29.0447 24.2636 29.0315 24.6172 29.1992 24.9084C29.3667 25.1996 29.6794 25.3658 30.0142 25.3421L32.7912 25.1461C34.1487 26.3307 35.8733 26.9781 37.6809 26.9781C37.7058 26.9781 37.7309 26.978 37.756 26.9778C39.6809 26.9587 41.5036 26.1992 42.8884 24.8392C44.2723 23.48 45.0646 21.6729 45.1193 19.7509C45.1277 19.4572 44.8963 19.2124 44.6027 19.2041Z"
+                                                fill="CurrentColor" />
+                                        </g>
+                                        <defs>
+                                            <clipPath id="clip0_9088_7881">
+                                                <rect
+                                                    width="36"
+                                                    height="36"
+                                                    fill="white"
+                                                    transform="translate(12 12)" />
+                                            </clipPath>
+                                        </defs>
+                                    </svg>
+                                    <h3 class="title text text-22 fw-600">Our purpose</h3>
+                                    <div class="text text-16">
+                                        To transform ideas into impactful realities that inspire progress and create lasting value.
+                                    </div>
+                                </li>
+                            </ul>
+                            <div class="buttons" data-aos="fade-up" data-aos-delay="100">
+                                <a
+                                    href="#"
+                                    class="button button--primary"
+                                    aria-label="More About Us">
+                                    More About Us
+                                    <span class="svg-wrapper">
+                                        <svg
+                                            class="icon-20"
+                                            width="20"
+                                            height="20"
+                                            viewBox="0 0 20 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M13.3365 7.84518L6.16435 15.0173L4.98584 13.8388L12.158 6.66667H5.83652V5H15.0032V14.1667H13.3365V7.84518Z"
+                                                fill="CurrentColor" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Recent Projects -->
+        <project-slider class="project-slider mt-100" style="background: rgba(242, 242, 242, 1);padding:100px 0px">
+            <div class="container">
+                <div class="section-headings headings-width text-center" style="max-width: 60%;">
+                    <div
+                        class="subheading text-20 subheading-bg"
+                        data-aos="fade-up"
+                        data-aos-delay="10">
+                        <svg
+                            class="icon icon-14"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="14"
+                            height="14"
+                            viewBox="0 0 14 14"
+                            fill="none">
+                            <g clip-path="url(#clip0_9088_4143)">
+                                <path
+                                    d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                    fill="CurrentColor" />
+                            </g>
+                            <defs>
+                                <clipPath>
+                                    <rect width="14" height="14" fill="CurrentColor" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                        <span>Our Verticals</span>
+                        <svg
+                            class="icon icon-14"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="14"
+                            height="14"
+                            viewBox="0 0 14 14"
+                            fill="none">
+                            <g clip-path="url(#clip0_9088_4143)">
+                                <path
+                                    d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                    fill="CurrentColor" />
+                            </g>
+                            <defs>
+                                <clipPath>
+                                    <rect width="14" height="14" fill="CurrentColor" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </div>
+                    <h2 class="heading text-50" data-aos="fade-up" data-aos-delay="20">
+                        Empowering Growth Across Diverse Business Verticals
+                    </h2>
+                </div>
+            </div>
+
+            <div class="section-content">
+                <div class="container-fluid slider-container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://www.toprockinteriors.com" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/TRI.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">Top Rock Interiors</h2>
+                                            <!-- <p class="text text-16">Digital marketing</p> -->
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://www.jehangirsrestaurant.com" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/jehangir.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">Jehangirs Restaurent</h2>
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://malakaltawouk.com" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/Tawouk.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">Malak Al Tawouk</h2>
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://www.cmis.ac.in" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/cmis.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">Chandramari International School</h2>
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://www.laboffuture.com" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/lof.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">Lab of Future</h2>
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://www.vbworldrestaurant.com" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/vb.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">VB World</h2>
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a
+                                    class="card-project radius18"
+                                    aria-label="project details"
+                                    href="https://www.toprockglobal.com" target="_blank">
+                                    <img
+                                        src="assets/img/cmg/verticals/trg.png"
+                                        alt="project image"
+                                        width="645"
+                                        height="690"
+                                        loading="lazy">
+                                    <div class="card-project-content-absolute">
+                                        <div class="card-project-content">
+                                            <h2 class="heading text-24">TopRock Global</h2>
+                                        </div>
+                                    </div>
+                                    <span class="svg-wrapper icon-project-link">
+                                        <svg
+                                            viewBox="0 0 64 64"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <circle cx="32" cy="32" r="32" fill="white" />
+                                            <path
+                                                d="M26.1667 39C25.8167 39 25.5833 38.8833 25.35 38.65C24.8833 38.1833 24.8833 37.4833 25.35 37.0167L37.0167 25.35C37.4833 24.8833 38.1833 24.8833 38.65 25.35C39.1167 25.8167 39.1167 26.5167 38.65 26.9833L26.9833 38.65C26.75 38.8833 26.5167 39 26.1667 39Z"
+                                                fill="#20282D" />
+                                            <path
+                                                d="M37.8332 37.8333C37.1332 37.8333 36.6665 37.3667 36.6665 36.6667V27.3333H27.3332C26.6332 27.3333 26.1665 26.8667 26.1665 26.1667C26.1665 25.4667 26.6332 25 27.3332 25H37.8332C38.5332 25 38.9998 25.4667 38.9998 26.1667V36.6667C38.9998 37.3667 38.5332 37.8333 37.8332 37.8333Z"
+                                                fill="#20282D" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="swiper-nav-border" data-aos="fade-up" data-aos-delay="150">
+                        <div class="swiper-nav-inner">
+                            <div class="swiper-button-prev">
+                                <svg
+                                    viewBox="0 0 8 12"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        fill-rule="evenodd"
+                                        clip-rule="evenodd"
+                                        d="M0.910711 5.40903C0.754485 5.5653 0.666722 5.77723 0.666722 5.9982C0.666722 6.21917 0.754485 6.43109 0.910711 6.58736L5.62488 11.3015C5.70175 11.3811 5.7937 11.4446 5.89537 11.4883C5.99704 11.532 6.10639 11.5549 6.21704 11.5559C6.32769 11.5569 6.43742 11.5358 6.53984 11.4939C6.64225 11.452 6.7353 11.3901 6.81354 11.3119C6.89178 11.2336 6.95366 11.1406 6.99556 11.0382C7.03746 10.9357 7.05855 10.826 7.05759 10.7154C7.05662 10.6047 7.03364 10.4954 6.98996 10.3937C6.94629 10.292 6.8828 10.2001 6.80321 10.1232L2.67821 5.9982L6.80321 1.8732C6.95501 1.71603 7.039 1.50553 7.03711 1.28703C7.03521 1.06853 6.94757 0.859522 6.79306 0.705015C6.63855 0.550508 6.42954 0.462868 6.21104 0.460969C5.99255 0.45907 5.78205 0.543066 5.62488 0.694864L0.910711 5.40903Z"
+                                        fill="currentColor" />
+                                </svg>
+                            </div>
+                            <div class="swiper-button-next">
+                                <svg
+                                    viewBox="0 0 8 12"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        fill-rule="evenodd"
+                                        clip-rule="evenodd"
+                                        d="M7.08929 5.40903C7.24552 5.5653 7.33328 5.77723 7.33328 5.9982C7.33328 6.21917 7.24552 6.43109 7.08929 6.58736L2.37512 11.3015C2.29825 11.3811 2.2063 11.4446 2.10463 11.4883C2.00296 11.532 1.89361 11.5549 1.78296 11.5559C1.67231 11.5569 1.56258 11.5358 1.46016 11.4939C1.35775 11.452 1.2647 11.3901 1.18646 11.3119C1.10822 11.2336 1.04634 11.1406 1.00444 11.0382C0.962537 10.9357 0.941453 10.826 0.942414 10.7154C0.943376 10.6047 0.966364 10.4954 1.01004 10.3937C1.05371 10.292 1.1172 10.2001 1.19679 10.1232L5.32179 5.9982L1.19679 1.8732C1.04499 1.71603 0.960996 1.50553 0.962894 1.28703C0.964793 1.06853 1.05243 0.859522 1.20694 0.705015C1.36145 0.550508 1.57046 0.462868 1.78896 0.460969C2.00745 0.45907 2.21795 0.543066 2.37512 0.694864L7.08929 5.40903Z"
+                                        fill="currentColor" />
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </project-slider>
+
+
+        <!-- FAQ -->
+        <div class="faq mt-100">
+            <div class="container">
+                <div class="row faq-row">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-headings">
+                            <div
+                                class="subheading text-20 subheading-bg"
+                                data-aos="fade-up">
+                                <svg
+                                    class="icon icon-14"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="14"
+                                    height="14"
+                                    viewBox="0 0 14 14"
+                                    fill="none">
+                                    <g clip-path="url(#clip0_9088_4143)">
+                                        <path
+                                            d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                            fill="CurrentColor" />
+                                    </g>
+                                    <defs>
+                                        <clipPath>
+                                            <rect width="14" height="14" fill="CurrentColor" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                                <span>Questions</span>
+                                <svg
+                                    class="icon icon-14"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    width="14"
+                                    height="14"
+                                    viewBox="0 0 14 14"
+                                    fill="none">
+                                    <g clip-path="url(#clip0_9088_4143)">
+                                        <path
+                                            d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                            fill="CurrentColor" />
+                                    </g>
+                                    <defs>
+                                        <clipPath>
+                                            <rect width="14" height="14" fill="CurrentColor" />
+                                        </clipPath>
+                                    </defs>
+                                </svg>
+                            </div>
+                            <h2
+                                class="heading text-50"
+                                data-aos="fade-up"
+                                data-aos-delay="50">
+                                Have any questions? here some answers
+                            </h2>
+                            <div
+                                class="text text-18"
+                                data-aos="fade-up"
+                                data-aos-delay="80">
+                                In relation to websites and apps, UI design considers the look, interactivity of the making product. It's all about making sure that the user interface.
+                            </div>
+                            <div class="buttons" data-aos="fade-up" data-aos-delay="100">
+                                <a
+                                    href="#"
+                                    class="button button--primary"
+                                    aria-label="Ask Your Question">
+                                    Ask Your Question
+                                    <span class="svg-wrapper">
+                                        <svg
+                                            class="icon-20"
+                                            width="20"
+                                            height="20"
+                                            viewBox="0 0 20 20"
+                                            fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M13.3365 7.84518L6.16435 15.0173L4.98584 13.8388L12.158 6.66667H5.83652V5H15.0032V14.1667H13.3365V7.84518Z"
+                                                fill="CurrentColor" />
+                                        </svg>
+                                    </span>
+                                </a>
+                            </div>
+                            <div class="image-absolute" data-aos="zoom-in">
+                                <img src="assets/img/cmg/question.png" width="104" height="180" loading="lazy" alt="Image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12">
+                        <faq-accordion>
+                            <div class="accordion-list">
+                                <div class="accordion-block" data-aos="fade-up">
+                                    <div class="accordion-opener heading text-22">
+                                        What is Chandramari Group?
+                                        <div class="svg-wrapper">
+                                            <svg class="icon icon-24" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_9088_8345)">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7083 15.7044C12.5208 15.8919 12.2665 15.9972 12.0013 15.9972C11.7362 15.9972 11.4818 15.8919 11.2943 15.7044L5.63732 10.0474C5.54181 9.95517 5.46563 9.84482 5.41322 9.72282C5.36081 9.60081 5.33322 9.46959 5.33207 9.33681C5.33092 9.20404 5.35622 9.07236 5.4065 8.94946C5.45678 8.82656 5.53103 8.71491 5.62492 8.62102C5.71882 8.52713 5.83047 8.45287 5.95337 8.40259C6.07626 8.35231 6.20794 8.32701 6.34072 8.32816C6.4735 8.32932 6.60472 8.3569 6.72672 8.40931C6.84873 8.46172 6.95907 8.5379 7.05132 8.63341L12.0013 13.5834L16.9513 8.63341C17.1399 8.45125 17.3925 8.35046 17.6547 8.35274C17.9169 8.35502 18.1677 8.46019 18.3531 8.64559C18.5385 8.831 18.6437 9.08182 18.646 9.34401C18.6483 9.60621 18.5475 9.85881 18.3653 10.0474L12.7083 15.7044Z" fill="CurrentColor" />
+                                                </g>
+                                                <defs>
+                                                    <clipPath>
+                                                        <rect width="24" height="24" fill="CurrentColor" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-content">
+                                        <div class="accordion-content-inner text text-18">Chandramari Group is a diversified business group comprising seven verticals, each specializing in different industries. Together, we focus on delivering excellence, innovation, and sustainable growth across all our ventures.</div>
+                                    </div>
+                                </div>
+                                <div class="accordion-block" data-aos="fade-up" data-aos-delay="50">
+                                    <div class="accordion-opener heading text-22">
+                                        2. What are the key verticals under Chandramari Group?
+                                        <div class="svg-wrapper">
+                                            <svg class="icon icon-24" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_9088_8345)">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7083 15.7044C12.5208 15.8919 12.2665 15.9972 12.0013 15.9972C11.7362 15.9972 11.4818 15.8919 11.2943 15.7044L5.63732 10.0474C5.54181 9.95517 5.46563 9.84482 5.41322 9.72282C5.36081 9.60081 5.33322 9.46959 5.33207 9.33681C5.33092 9.20404 5.35622 9.07236 5.4065 8.94946C5.45678 8.82656 5.53103 8.71491 5.62492 8.62102C5.71882 8.52713 5.83047 8.45287 5.95337 8.40259C6.07626 8.35231 6.20794 8.32701 6.34072 8.32816C6.4735 8.32932 6.60472 8.3569 6.72672 8.40931C6.84873 8.46172 6.95907 8.5379 7.05132 8.63341L12.0013 13.5834L16.9513 8.63341C17.1399 8.45125 17.3925 8.35046 17.6547 8.35274C17.9169 8.35502 18.1677 8.46019 18.3531 8.64559C18.5385 8.831 18.6437 9.08182 18.646 9.34401C18.6483 9.60621 18.5475 9.85881 18.3653 10.0474L12.7083 15.7044Z" fill="CurrentColor" />
+                                                </g>
+                                                <defs>
+                                                    <clipPath>
+                                                        <rect width="24" height="24" fill="CurrentColor" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-content">
+                                        <div class="accordion-content-inner text text-18">Our group operates across seven major sectors, including construction, interiors, trading, technology, design, logistics, and services — all united under one strategic vision.</div>
+                                    </div>
+                                </div>
+                                <div class="accordion-block" data-aos="fade-up" data-aos-delay="100">
+                                    <div class="accordion-opener heading text-22">
+                                        3. What is the core vision of Chandramari Group?
+                                        <div class="svg-wrapper">
+                                            <svg class="icon icon-24" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_9088_8345)">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7083 15.7044C12.5208 15.8919 12.2665 15.9972 12.0013 15.9972C11.7362 15.9972 11.4818 15.8919 11.2943 15.7044L5.63732 10.0474C5.54181 9.95517 5.46563 9.84482 5.41322 9.72282C5.36081 9.60081 5.33322 9.46959 5.33207 9.33681C5.33092 9.20404 5.35622 9.07236 5.4065 8.94946C5.45678 8.82656 5.53103 8.71491 5.62492 8.62102C5.71882 8.52713 5.83047 8.45287 5.95337 8.40259C6.07626 8.35231 6.20794 8.32701 6.34072 8.32816C6.4735 8.32932 6.60472 8.3569 6.72672 8.40931C6.84873 8.46172 6.95907 8.5379 7.05132 8.63341L12.0013 13.5834L16.9513 8.63341C17.1399 8.45125 17.3925 8.35046 17.6547 8.35274C17.9169 8.35502 18.1677 8.46019 18.3531 8.64559C18.5385 8.831 18.6437 9.08182 18.646 9.34401C18.6483 9.60621 18.5475 9.85881 18.3653 10.0474L12.7083 15.7044Z" fill="CurrentColor" />
+                                                </g>
+                                                <defs>
+                                                    <clipPath>
+                                                        <rect width="24" height="24" fill="CurrentColor" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-content">
+                                        <div class="accordion-content-inner text text-18">Our vision is to connect industries and ideas through innovation, integrity, and collaboration — creating long-term value for our clients, partners, and communities.</div>
+                                    </div>
+                                </div>
+                                <div class="accordion-block" data-aos="fade-up" data-aos-delay="150">
+                                    <div class="accordion-opener heading text-22">
+                                        4. How does Chandramari Group ensure quality across all its companies?
+                                        <div class="svg-wrapper">
+                                            <svg class="icon icon-24" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_9088_8345)">
+                                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.7083 15.7044C12.5208 15.8919 12.2665 15.9972 12.0013 15.9972C11.7362 15.9972 11.4818 15.8919 11.2943 15.7044L5.63732 10.0474C5.54181 9.95517 5.46563 9.84482 5.41322 9.72282C5.36081 9.60081 5.33322 9.46959 5.33207 9.33681C5.33092 9.20404 5.35622 9.07236 5.4065 8.94946C5.45678 8.82656 5.53103 8.71491 5.62492 8.62102C5.71882 8.52713 5.83047 8.45287 5.95337 8.40259C6.07626 8.35231 6.20794 8.32701 6.34072 8.32816C6.4735 8.32932 6.60472 8.3569 6.72672 8.40931C6.84873 8.46172 6.95907 8.5379 7.05132 8.63341L12.0013 13.5834L16.9513 8.63341C17.1399 8.45125 17.3925 8.35046 17.6547 8.35274C17.9169 8.35502 18.1677 8.46019 18.3531 8.64559C18.5385 8.831 18.6437 9.08182 18.646 9.34401C18.6483 9.60621 18.5475 9.85881 18.3653 10.0474L12.7083 15.7044Z" fill="CurrentColor" />
+                                                </g>
+                                                <defs>
+                                                    <clipPath>
+                                                        <rect width="24" height="24" fill="CurrentColor" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-content">
+                                        <div class="accordion-content-inner text text-18">Each vertical follows a unified quality framework and management system, ensuring consistency, transparency, and excellence in every project we undertake.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </faq-accordion>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Featured Blog -->
+        <div class="featured-blog mt-100 section-padding">
+            <div class="container">
+                <div class="section-headings text-center">
+                    <div
+                        class="subheading subheading-bg text-20"
+                        data-aos="fade-up">
+                        <svg
+                            class="icon icon-14"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="14"
+                            height="14"
+                            viewBox="0 0 14 14"
+                            fill="none">
+                            <g clip-path="url(#clip0_9088_4143)">
+                                <path
+                                    d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                    fill="CurrentColor" />
+                            </g>
+                            <defs>
+                                <clipPath>
+                                    <rect width="14" height="14" fill="CurrentColor" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                        <span>Our Blog</span>
+                        <svg
+                            class="icon icon-14"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="14"
+                            height="14"
+                            viewBox="0 0 14 14"
+                            fill="none">
+                            <g clip-path="url(#clip0_9088_4143)">
+                                <path
+                                    d="M8.71401 5.28599C11.7514 5.4205 14 5.9412 14 7C14 8.0588 11.7514 8.5795 8.71401 8.71401C8.5795 11.7514 8.0588 14 7 14C5.9412 14 5.4205 11.7514 5.28599 8.71401C2.2486 8.5795 -1.33117e-07 8.0588 0 7C4.62818e-08 5.94119 2.2486 5.4205 5.28599 5.28599C5.4205 2.2486 5.9412 0 7 0C8.0588 0 8.5795 2.2486 8.71401 5.28599Z"
+                                    fill="CurrentColor" />
+                            </g>
+                            <defs>
+                                <clipPath>
+                                    <rect width="14" height="14" fill="CurrentColor" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+                    </div>
+                    <h2
+                        class="heading text-50"
+                        data-aos="fade-up"
+                        data-aos-delay="50">
+                        Latest News From Us
+                    </h2>
+                </div>
+                <div class="section-content">
+                    <div class="row product-grid justify-content-center">
+                        <div class="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                            <div class="card-blog radius18">
+                                <div class="card-blog-top">
+                                    <div class="card-blog-meta">
+                                        <div class="card-blog-meta-item text text-18">
+                                            <svg
+                                                width="16"
+                                                height="18"
+                                                viewBox="0 0 16 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M8.0007 0.046875C6.95088 0.046875 5.94406 0.463912 5.20173 1.20624C4.4594 1.94858 4.04236 2.95539 4.04236 4.00521C4.04236 5.05502 4.4594 6.06184 5.20173 6.80417C5.94406 7.5465 6.95088 7.96354 8.0007 7.96354C9.05051 7.96354 10.0573 7.5465 10.7997 6.80417C11.542 6.06184 11.959 5.05502 11.959 4.00521C11.959 2.95539 11.542 1.94858 10.7997 1.20624C10.0573 0.463912 9.05051 0.046875 8.0007 0.046875ZM5.29236 4.00521C5.29236 3.28691 5.57771 2.59804 6.08562 2.09013C6.59353 1.58222 7.2824 1.29688 8.0007 1.29688C8.71899 1.29688 9.40787 1.58222 9.91578 2.09013C10.4237 2.59804 10.709 3.28691 10.709 4.00521C10.709 4.7235 10.4237 5.41238 9.91578 5.92029C9.40787 6.4282 8.71899 6.71354 8.0007 6.71354C7.2824 6.71354 6.59353 6.4282 6.08562 5.92029C5.57771 5.41238 5.29236 4.7235 5.29236 4.00521ZM8.0007 9.21354C6.0732 9.21354 4.29653 9.65187 2.9807 10.3919C1.68403 11.1219 0.709031 12.2269 0.709031 13.5885V13.6735C0.708198 14.6419 0.707364 15.8569 1.7732 16.7252C2.29736 17.1519 3.03153 17.456 4.0232 17.656C5.01653 17.8577 6.31236 17.9635 8.0007 17.9635C9.68903 17.9635 10.984 17.8577 11.979 17.656C12.9707 17.456 13.704 17.1519 14.229 16.7252C15.2949 15.8569 15.2932 14.6419 15.2924 13.6735V13.5885C15.2924 12.2269 14.3174 11.1219 13.0215 10.3919C11.7049 9.65187 9.92903 9.21354 8.0007 9.21354ZM1.95903 13.5885C1.95903 12.8794 2.47736 12.1094 3.5932 11.4819C4.68986 10.8652 6.24653 10.4635 8.00153 10.4635C9.75486 10.4635 11.3115 10.8652 12.4082 11.4819C13.5249 12.1094 14.0424 12.8794 14.0424 13.5885C14.0424 14.6785 14.009 15.2919 13.439 15.7552C13.1307 16.0069 12.614 16.2527 11.7307 16.431C10.8499 16.6094 9.6457 16.7135 8.0007 16.7135C6.3557 16.7135 5.1507 16.6094 4.2707 16.431C3.38736 16.2527 2.8707 16.0069 2.56236 15.756C1.99236 15.2919 1.95903 14.6785 1.95903 13.5885Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            Admin
+                                        </div>
+                                        <div class="card-blog-meta-item text text-18">
+                                            <svg
+                                                width="18"
+                                                height="18"
+                                                viewBox="0 0 18 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M13.1667 10.6667C13.3877 10.6667 13.5996 10.5789 13.7559 10.4226C13.9122 10.2663 14 10.0543 14 9.83333C14 9.61232 13.9122 9.40036 13.7559 9.24408C13.5996 9.0878 13.3877 9 13.1667 9C12.9457 9 12.7337 9.0878 12.5774 9.24408C12.4211 9.40036 12.3333 9.61232 12.3333 9.83333C12.3333 10.0543 12.4211 10.2663 12.5774 10.4226C12.7337 10.5789 12.9457 10.6667 13.1667 10.6667ZM13.1667 14C13.3877 14 13.5996 13.9122 13.7559 13.7559C13.9122 13.5996 14 13.3877 14 13.1667C14 12.9457 13.9122 12.7337 13.7559 12.5774C13.5996 12.4211 13.3877 12.3333 13.1667 12.3333C12.9457 12.3333 12.7337 12.4211 12.5774 12.5774C12.4211 12.7337 12.3333 12.9457 12.3333 13.1667C12.3333 13.3877 12.4211 13.5996 12.5774 13.7559C12.7337 13.9122 12.9457 14 13.1667 14ZM9.83333 9.83333C9.83333 10.0543 9.74554 10.2663 9.58926 10.4226C9.43297 10.5789 9.22101 10.6667 9 10.6667C8.77899 10.6667 8.56702 10.5789 8.41074 10.4226C8.25446 10.2663 8.16667 10.0543 8.16667 9.83333C8.16667 9.61232 8.25446 9.40036 8.41074 9.24408C8.56702 9.0878 8.77899 9 9 9C9.22101 9 9.43297 9.0878 9.58926 9.24408C9.74554 9.40036 9.83333 9.61232 9.83333 9.83333ZM9.83333 13.1667C9.83333 13.3877 9.74554 13.5996 9.58926 13.7559C9.43297 13.9122 9.22101 14 9 14C8.77899 14 8.56702 13.9122 8.41074 13.7559C8.25446 13.5996 8.16667 13.3877 8.16667 13.1667C8.16667 12.9457 8.25446 12.7337 8.41074 12.5774C8.56702 12.4211 8.77899 12.3333 9 12.3333C9.22101 12.3333 9.43297 12.4211 9.58926 12.5774C9.74554 12.7337 9.83333 12.9457 9.83333 13.1667ZM4.83333 10.6667C5.05435 10.6667 5.26631 10.5789 5.42259 10.4226C5.57887 10.2663 5.66667 10.0543 5.66667 9.83333C5.66667 9.61232 5.57887 9.40036 5.42259 9.24408C5.26631 9.0878 5.05435 9 4.83333 9C4.61232 9 4.40036 9.0878 4.24408 9.24408C4.0878 9.40036 4 9.61232 4 9.83333C4 10.0543 4.0878 10.2663 4.24408 10.4226C4.40036 10.5789 4.61232 10.6667 4.83333 10.6667ZM4.83333 14C5.05435 14 5.26631 13.9122 5.42259 13.7559C5.57887 13.5996 5.66667 13.3877 5.66667 13.1667C5.66667 12.9457 5.57887 12.7337 5.42259 12.5774C5.26631 12.4211 5.05435 12.3333 4.83333 12.3333C4.61232 12.3333 4.40036 12.4211 4.24408 12.5774C4.0878 12.7337 4 12.9457 4 13.1667C4 13.3877 4.0878 13.5996 4.24408 13.7559C4.40036 13.9122 4.61232 14 4.83333 14Z"
+                                                    fill="currentColor" />
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M4.83268 0.453125C4.99844 0.453125 5.15741 0.518973 5.27462 0.636183C5.39183 0.753394 5.45768 0.912365 5.45768 1.07812V1.71396C6.00935 1.70312 6.61685 1.70312 7.28518 1.70312H10.7127C11.3818 1.70312 11.9893 1.70312 12.541 1.71396V1.07812C12.541 0.912365 12.6069 0.753394 12.7241 0.636183C12.8413 0.518973 13.0003 0.453125 13.166 0.453125C13.3318 0.453125 13.4907 0.518973 13.608 0.636183C13.7252 0.753394 13.791 0.912365 13.791 1.07812V1.76729C14.0077 1.78396 14.2127 1.80479 14.4068 1.83063C15.3835 1.96229 16.1743 2.23896 16.7985 2.86229C17.4218 3.48646 17.6985 4.27729 17.8302 5.25396C17.9577 6.20396 17.9577 7.41646 17.9577 8.94812V10.7081C17.9577 12.2398 17.9577 13.4531 17.8302 14.4023C17.6985 15.379 17.4218 16.1698 16.7985 16.794C16.1743 17.4173 15.3835 17.694 14.4068 17.8256C13.4568 17.9531 12.2443 17.9531 10.7127 17.9531H7.28602C5.75435 17.9531 4.54102 17.9531 3.59185 17.8256C2.61518 17.694 1.82435 17.4173 1.20018 16.794C0.576849 16.1698 0.300182 15.379 0.168516 14.4023C0.0410156 13.4523 0.0410156 12.2398 0.0410156 10.7081V8.94812C0.0410156 7.41646 0.0410156 6.20312 0.168516 5.25396C0.300182 4.27729 0.576849 3.48646 1.20018 2.86229C1.82435 2.23896 2.61518 1.96229 3.59185 1.83063C3.78602 1.80479 3.99185 1.78396 4.20768 1.76729V1.07812C4.20768 0.912365 4.27353 0.753394 4.39074 0.636183C4.50795 0.518973 4.66692 0.453125 4.83268 0.453125ZM3.75768 3.06979C2.92018 3.18229 2.43685 3.39396 2.08435 3.74646C1.73185 4.09896 1.52018 4.58229 1.40768 5.42062C1.38852 5.56229 1.37268 5.71229 1.35935 5.86979H16.6393C16.626 5.71146 16.6102 5.56229 16.591 5.41979C16.4785 4.58229 16.2668 4.09896 15.9143 3.74646C15.5618 3.39396 15.0785 3.18229 14.2402 3.06979C13.3843 2.95479 12.2552 2.95312 10.666 2.95312H7.33268C5.74352 2.95312 4.61518 2.95479 3.75768 3.06979ZM1.29102 8.99479C1.29102 8.28312 1.29102 7.66396 1.30185 7.11979H16.6968C16.7077 7.66396 16.7077 8.28312 16.7077 8.99479V10.6615C16.7077 12.2506 16.706 13.3798 16.591 14.2365C16.4785 15.074 16.2668 15.5573 15.9143 15.9098C15.5618 16.2623 15.0785 16.474 14.2402 16.5865C13.3843 16.7015 12.2552 16.7031 10.666 16.7031H7.33268C5.74352 16.7031 4.61518 16.7015 3.75768 16.5865C2.92018 16.474 2.43685 16.2623 2.08435 15.9098C1.73185 15.5573 1.52018 15.074 1.40768 14.2356C1.29268 13.3798 1.29102 12.2506 1.29102 10.6615V8.99479Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            October 29, 2025
+                                        </div>
+                                    </div>
+                                    <h2 class="card-blog-heading heading text-22">
+                                        <a href="#" class="heading text-22">
+                                            Chandramari Cares: Supporting Breast Cancer Awareness
+                                        </a>
+                                    </h2>
+                                </div>
+                                <a
+                                    class="card-blog-bottom"
+                                    href="#"
+                                    aria-label="Blog details">
+                                    <span class="blog-tag subheading subheading-bg text-16 fw-500">Toprock Global</span>
+                                    <div class="media">
+                                        <img
+                                            src="assets/img/cmg/breast-cancer.jpg"
+                                            alt="blog image"
+                                            width="1000"
+                                            height="707"
+                                            loading="lazy">
+                                    </div>
+                                    <div class="buttons">
+                                        <div
+                                            class="button button--primary">
+                                            Read More
+                                            <svg
+                                                viewBox="0 0 11 10"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.16668 0.833333C2.16668 0.61232 2.25448 0.400358 2.41076 0.244078C2.56704 0.0877975 2.779 0 3.00001 0H9.66668C9.88769 0 10.0997 0.0877975 10.2559 0.244078C10.4122 0.400358 10.5 0.61232 10.5 0.833333V7.5C10.5 7.72101 10.4122 7.93297 10.2559 8.08926C10.0997 8.24554 9.88769 8.33333 9.66668 8.33333C9.44567 8.33333 9.2337 8.24554 9.07742 8.08926C8.92114 7.93297 8.83335 7.72101 8.83335 7.5V2.845L1.92251 9.75583C1.76535 9.90763 1.55484 9.99163 1.33635 9.98973C1.11785 9.98783 0.908839 9.90019 0.754332 9.74568C0.599825 9.59118 0.512184 9.38216 0.510285 9.16367C0.508387 8.94517 0.592382 8.73467 0.744181 8.5775L7.65501 1.66667H3.00001C2.779 1.66667 2.56704 1.57887 2.41076 1.42259C2.25448 1.26631 2.16668 1.05435 2.16668 0.833333Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="200">
+                            <div class="card-blog radius18">
+                                <div class="card-blog-top">
+                                    <div class="card-blog-meta">
+                                        <div class="card-blog-meta-item text text-18">
+                                            <svg
+                                                width="16"
+                                                height="18"
+                                                viewBox="0 0 16 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M8.0007 0.046875C6.95088 0.046875 5.94406 0.463912 5.20173 1.20624C4.4594 1.94858 4.04236 2.95539 4.04236 4.00521C4.04236 5.05502 4.4594 6.06184 5.20173 6.80417C5.94406 7.5465 6.95088 7.96354 8.0007 7.96354C9.05051 7.96354 10.0573 7.5465 10.7997 6.80417C11.542 6.06184 11.959 5.05502 11.959 4.00521C11.959 2.95539 11.542 1.94858 10.7997 1.20624C10.0573 0.463912 9.05051 0.046875 8.0007 0.046875ZM5.29236 4.00521C5.29236 3.28691 5.57771 2.59804 6.08562 2.09013C6.59353 1.58222 7.2824 1.29688 8.0007 1.29688C8.71899 1.29688 9.40787 1.58222 9.91578 2.09013C10.4237 2.59804 10.709 3.28691 10.709 4.00521C10.709 4.7235 10.4237 5.41238 9.91578 5.92029C9.40787 6.4282 8.71899 6.71354 8.0007 6.71354C7.2824 6.71354 6.59353 6.4282 6.08562 5.92029C5.57771 5.41238 5.29236 4.7235 5.29236 4.00521ZM8.0007 9.21354C6.0732 9.21354 4.29653 9.65187 2.9807 10.3919C1.68403 11.1219 0.709031 12.2269 0.709031 13.5885V13.6735C0.708198 14.6419 0.707364 15.8569 1.7732 16.7252C2.29736 17.1519 3.03153 17.456 4.0232 17.656C5.01653 17.8577 6.31236 17.9635 8.0007 17.9635C9.68903 17.9635 10.984 17.8577 11.979 17.656C12.9707 17.456 13.704 17.1519 14.229 16.7252C15.2949 15.8569 15.2932 14.6419 15.2924 13.6735V13.5885C15.2924 12.2269 14.3174 11.1219 13.0215 10.3919C11.7049 9.65187 9.92903 9.21354 8.0007 9.21354ZM1.95903 13.5885C1.95903 12.8794 2.47736 12.1094 3.5932 11.4819C4.68986 10.8652 6.24653 10.4635 8.00153 10.4635C9.75486 10.4635 11.3115 10.8652 12.4082 11.4819C13.5249 12.1094 14.0424 12.8794 14.0424 13.5885C14.0424 14.6785 14.009 15.2919 13.439 15.7552C13.1307 16.0069 12.614 16.2527 11.7307 16.431C10.8499 16.6094 9.6457 16.7135 8.0007 16.7135C6.3557 16.7135 5.1507 16.6094 4.2707 16.431C3.38736 16.2527 2.8707 16.0069 2.56236 15.756C1.99236 15.2919 1.95903 14.6785 1.95903 13.5885Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            Admin
+                                        </div>
+                                        <div class="card-blog-meta-item text text-18">
+                                            <svg
+                                                width="18"
+                                                height="18"
+                                                viewBox="0 0 18 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M13.1667 10.6667C13.3877 10.6667 13.5996 10.5789 13.7559 10.4226C13.9122 10.2663 14 10.0543 14 9.83333C14 9.61232 13.9122 9.40036 13.7559 9.24408C13.5996 9.0878 13.3877 9 13.1667 9C12.9457 9 12.7337 9.0878 12.5774 9.24408C12.4211 9.40036 12.3333 9.61232 12.3333 9.83333C12.3333 10.0543 12.4211 10.2663 12.5774 10.4226C12.7337 10.5789 12.9457 10.6667 13.1667 10.6667ZM13.1667 14C13.3877 14 13.5996 13.9122 13.7559 13.7559C13.9122 13.5996 14 13.3877 14 13.1667C14 12.9457 13.9122 12.7337 13.7559 12.5774C13.5996 12.4211 13.3877 12.3333 13.1667 12.3333C12.9457 12.3333 12.7337 12.4211 12.5774 12.5774C12.4211 12.7337 12.3333 12.9457 12.3333 13.1667C12.3333 13.3877 12.4211 13.5996 12.5774 13.7559C12.7337 13.9122 12.9457 14 13.1667 14ZM9.83333 9.83333C9.83333 10.0543 9.74554 10.2663 9.58926 10.4226C9.43297 10.5789 9.22101 10.6667 9 10.6667C8.77899 10.6667 8.56702 10.5789 8.41074 10.4226C8.25446 10.2663 8.16667 10.0543 8.16667 9.83333C8.16667 9.61232 8.25446 9.40036 8.41074 9.24408C8.56702 9.0878 8.77899 9 9 9C9.22101 9 9.43297 9.0878 9.58926 9.24408C9.74554 9.40036 9.83333 9.61232 9.83333 9.83333ZM9.83333 13.1667C9.83333 13.3877 9.74554 13.5996 9.58926 13.7559C9.43297 13.9122 9.22101 14 9 14C8.77899 14 8.56702 13.9122 8.41074 13.7559C8.25446 13.5996 8.16667 13.3877 8.16667 13.1667C8.16667 12.9457 8.25446 12.7337 8.41074 12.5774C8.56702 12.4211 8.77899 12.3333 9 12.3333C9.22101 12.3333 9.43297 12.4211 9.58926 12.5774C9.74554 12.7337 9.83333 12.9457 9.83333 13.1667ZM4.83333 10.6667C5.05435 10.6667 5.26631 10.5789 5.42259 10.4226C5.57887 10.2663 5.66667 10.0543 5.66667 9.83333C5.66667 9.61232 5.57887 9.40036 5.42259 9.24408C5.26631 9.0878 5.05435 9 4.83333 9C4.61232 9 4.40036 9.0878 4.24408 9.24408C4.0878 9.40036 4 9.61232 4 9.83333C4 10.0543 4.0878 10.2663 4.24408 10.4226C4.40036 10.5789 4.61232 10.6667 4.83333 10.6667ZM4.83333 14C5.05435 14 5.26631 13.9122 5.42259 13.7559C5.57887 13.5996 5.66667 13.3877 5.66667 13.1667C5.66667 12.9457 5.57887 12.7337 5.42259 12.5774C5.26631 12.4211 5.05435 12.3333 4.83333 12.3333C4.61232 12.3333 4.40036 12.4211 4.24408 12.5774C4.0878 12.7337 4 12.9457 4 13.1667C4 13.3877 4.0878 13.5996 4.24408 13.7559C4.40036 13.9122 4.61232 14 4.83333 14Z"
+                                                    fill="currentColor" />
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M4.83268 0.453125C4.99844 0.453125 5.15741 0.518973 5.27462 0.636183C5.39183 0.753394 5.45768 0.912365 5.45768 1.07812V1.71396C6.00935 1.70312 6.61685 1.70312 7.28518 1.70312H10.7127C11.3818 1.70312 11.9893 1.70312 12.541 1.71396V1.07812C12.541 0.912365 12.6069 0.753394 12.7241 0.636183C12.8413 0.518973 13.0003 0.453125 13.166 0.453125C13.3318 0.453125 13.4907 0.518973 13.608 0.636183C13.7252 0.753394 13.791 0.912365 13.791 1.07812V1.76729C14.0077 1.78396 14.2127 1.80479 14.4068 1.83063C15.3835 1.96229 16.1743 2.23896 16.7985 2.86229C17.4218 3.48646 17.6985 4.27729 17.8302 5.25396C17.9577 6.20396 17.9577 7.41646 17.9577 8.94812V10.7081C17.9577 12.2398 17.9577 13.4531 17.8302 14.4023C17.6985 15.379 17.4218 16.1698 16.7985 16.794C16.1743 17.4173 15.3835 17.694 14.4068 17.8256C13.4568 17.9531 12.2443 17.9531 10.7127 17.9531H7.28602C5.75435 17.9531 4.54102 17.9531 3.59185 17.8256C2.61518 17.694 1.82435 17.4173 1.20018 16.794C0.576849 16.1698 0.300182 15.379 0.168516 14.4023C0.0410156 13.4523 0.0410156 12.2398 0.0410156 10.7081V8.94812C0.0410156 7.41646 0.0410156 6.20312 0.168516 5.25396C0.300182 4.27729 0.576849 3.48646 1.20018 2.86229C1.82435 2.23896 2.61518 1.96229 3.59185 1.83063C3.78602 1.80479 3.99185 1.78396 4.20768 1.76729V1.07812C4.20768 0.912365 4.27353 0.753394 4.39074 0.636183C4.50795 0.518973 4.66692 0.453125 4.83268 0.453125ZM3.75768 3.06979C2.92018 3.18229 2.43685 3.39396 2.08435 3.74646C1.73185 4.09896 1.52018 4.58229 1.40768 5.42062C1.38852 5.56229 1.37268 5.71229 1.35935 5.86979H16.6393C16.626 5.71146 16.6102 5.56229 16.591 5.41979C16.4785 4.58229 16.2668 4.09896 15.9143 3.74646C15.5618 3.39396 15.0785 3.18229 14.2402 3.06979C13.3843 2.95479 12.2552 2.95312 10.666 2.95312H7.33268C5.74352 2.95312 4.61518 2.95479 3.75768 3.06979ZM1.29102 8.99479C1.29102 8.28312 1.29102 7.66396 1.30185 7.11979H16.6968C16.7077 7.66396 16.7077 8.28312 16.7077 8.99479V10.6615C16.7077 12.2506 16.706 13.3798 16.591 14.2365C16.4785 15.074 16.2668 15.5573 15.9143 15.9098C15.5618 16.2623 15.0785 16.474 14.2402 16.5865C13.3843 16.7015 12.2552 16.7031 10.666 16.7031H7.33268C5.74352 16.7031 4.61518 16.7015 3.75768 16.5865C2.92018 16.474 2.43685 16.2623 2.08435 15.9098C1.73185 15.5573 1.52018 15.074 1.40768 14.2356C1.29268 13.3798 1.29102 12.2506 1.29102 10.6615V8.99479Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            October 20, 2025
+                                        </div>
+                                    </div>
+                                    <h2 class="card-blog-heading heading text-22">
+                                        <a href="#" class="heading text-22">
+                                            CMIS Gets Into the Halloween Spirit!
+                                        </a>
+                                    </h2>
+                                </div>
+                                <a
+                                    class="card-blog-bottom"
+                                    href="#"
+                                    aria-label="Blog details">
+                                    <span class="blog-tag subheading subheading-bg text-16 fw-500">CMIS</span>
+                                    <div class="media">
+                                        <img
+                                            src="assets/img/cmg/hallowen.jpg"
+                                            alt="blog image"
+                                            width="1000"
+                                            height="707"
+                                            loading="lazy">
+                                    </div>
+                                    <div class="buttons">
+                                        <div
+                                            class="button button--primary">
+                                            Read More
+                                            <svg
+                                                viewBox="0 0 11 10"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.16668 0.833333C2.16668 0.61232 2.25448 0.400358 2.41076 0.244078C2.56704 0.0877975 2.779 0 3.00001 0H9.66668C9.88769 0 10.0997 0.0877975 10.2559 0.244078C10.4122 0.400358 10.5 0.61232 10.5 0.833333V7.5C10.5 7.72101 10.4122 7.93297 10.2559 8.08926C10.0997 8.24554 9.88769 8.33333 9.66668 8.33333C9.44567 8.33333 9.2337 8.24554 9.07742 8.08926C8.92114 7.93297 8.83335 7.72101 8.83335 7.5V2.845L1.92251 9.75583C1.76535 9.90763 1.55484 9.99163 1.33635 9.98973C1.11785 9.98783 0.908839 9.90019 0.754332 9.74568C0.599825 9.59118 0.512184 9.38216 0.510285 9.16367C0.508387 8.94517 0.592382 8.73467 0.744181 8.5775L7.65501 1.66667H3.00001C2.779 1.66667 2.56704 1.57887 2.41076 1.42259C2.25448 1.26631 2.16668 1.05435 2.16668 0.833333Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                            <div class="card-blog radius18">
+                                <div class="card-blog-top">
+                                    <div class="card-blog-meta">
+                                        <div class="card-blog-meta-item text text-18">
+                                            <svg
+                                                width="16"
+                                                height="18"
+                                                viewBox="0 0 16 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M8.0007 0.046875C6.95088 0.046875 5.94406 0.463912 5.20173 1.20624C4.4594 1.94858 4.04236 2.95539 4.04236 4.00521C4.04236 5.05502 4.4594 6.06184 5.20173 6.80417C5.94406 7.5465 6.95088 7.96354 8.0007 7.96354C9.05051 7.96354 10.0573 7.5465 10.7997 6.80417C11.542 6.06184 11.959 5.05502 11.959 4.00521C11.959 2.95539 11.542 1.94858 10.7997 1.20624C10.0573 0.463912 9.05051 0.046875 8.0007 0.046875ZM5.29236 4.00521C5.29236 3.28691 5.57771 2.59804 6.08562 2.09013C6.59353 1.58222 7.2824 1.29688 8.0007 1.29688C8.71899 1.29688 9.40787 1.58222 9.91578 2.09013C10.4237 2.59804 10.709 3.28691 10.709 4.00521C10.709 4.7235 10.4237 5.41238 9.91578 5.92029C9.40787 6.4282 8.71899 6.71354 8.0007 6.71354C7.2824 6.71354 6.59353 6.4282 6.08562 5.92029C5.57771 5.41238 5.29236 4.7235 5.29236 4.00521ZM8.0007 9.21354C6.0732 9.21354 4.29653 9.65187 2.9807 10.3919C1.68403 11.1219 0.709031 12.2269 0.709031 13.5885V13.6735C0.708198 14.6419 0.707364 15.8569 1.7732 16.7252C2.29736 17.1519 3.03153 17.456 4.0232 17.656C5.01653 17.8577 6.31236 17.9635 8.0007 17.9635C9.68903 17.9635 10.984 17.8577 11.979 17.656C12.9707 17.456 13.704 17.1519 14.229 16.7252C15.2949 15.8569 15.2932 14.6419 15.2924 13.6735V13.5885C15.2924 12.2269 14.3174 11.1219 13.0215 10.3919C11.7049 9.65187 9.92903 9.21354 8.0007 9.21354ZM1.95903 13.5885C1.95903 12.8794 2.47736 12.1094 3.5932 11.4819C4.68986 10.8652 6.24653 10.4635 8.00153 10.4635C9.75486 10.4635 11.3115 10.8652 12.4082 11.4819C13.5249 12.1094 14.0424 12.8794 14.0424 13.5885C14.0424 14.6785 14.009 15.2919 13.439 15.7552C13.1307 16.0069 12.614 16.2527 11.7307 16.431C10.8499 16.6094 9.6457 16.7135 8.0007 16.7135C6.3557 16.7135 5.1507 16.6094 4.2707 16.431C3.38736 16.2527 2.8707 16.0069 2.56236 15.756C1.99236 15.2919 1.95903 14.6785 1.95903 13.5885Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            Admin
+                                        </div>
+                                        <div class="card-blog-meta-item text text-18">
+                                            <svg
+                                                width="18"
+                                                height="18"
+                                                viewBox="0 0 18 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M13.1667 10.6667C13.3877 10.6667 13.5996 10.5789 13.7559 10.4226C13.9122 10.2663 14 10.0543 14 9.83333C14 9.61232 13.9122 9.40036 13.7559 9.24408C13.5996 9.0878 13.3877 9 13.1667 9C12.9457 9 12.7337 9.0878 12.5774 9.24408C12.4211 9.40036 12.3333 9.61232 12.3333 9.83333C12.3333 10.0543 12.4211 10.2663 12.5774 10.4226C12.7337 10.5789 12.9457 10.6667 13.1667 10.6667ZM13.1667 14C13.3877 14 13.5996 13.9122 13.7559 13.7559C13.9122 13.5996 14 13.3877 14 13.1667C14 12.9457 13.9122 12.7337 13.7559 12.5774C13.5996 12.4211 13.3877 12.3333 13.1667 12.3333C12.9457 12.3333 12.7337 12.4211 12.5774 12.5774C12.4211 12.7337 12.3333 12.9457 12.3333 13.1667C12.3333 13.3877 12.4211 13.5996 12.5774 13.7559C12.7337 13.9122 12.9457 14 13.1667 14ZM9.83333 9.83333C9.83333 10.0543 9.74554 10.2663 9.58926 10.4226C9.43297 10.5789 9.22101 10.6667 9 10.6667C8.77899 10.6667 8.56702 10.5789 8.41074 10.4226C8.25446 10.2663 8.16667 10.0543 8.16667 9.83333C8.16667 9.61232 8.25446 9.40036 8.41074 9.24408C8.56702 9.0878 8.77899 9 9 9C9.22101 9 9.43297 9.0878 9.58926 9.24408C9.74554 9.40036 9.83333 9.61232 9.83333 9.83333ZM9.83333 13.1667C9.83333 13.3877 9.74554 13.5996 9.58926 13.7559C9.43297 13.9122 9.22101 14 9 14C8.77899 14 8.56702 13.9122 8.41074 13.7559C8.25446 13.5996 8.16667 13.3877 8.16667 13.1667C8.16667 12.9457 8.25446 12.7337 8.41074 12.5774C8.56702 12.4211 8.77899 12.3333 9 12.3333C9.22101 12.3333 9.43297 12.4211 9.58926 12.5774C9.74554 12.7337 9.83333 12.9457 9.83333 13.1667ZM4.83333 10.6667C5.05435 10.6667 5.26631 10.5789 5.42259 10.4226C5.57887 10.2663 5.66667 10.0543 5.66667 9.83333C5.66667 9.61232 5.57887 9.40036 5.42259 9.24408C5.26631 9.0878 5.05435 9 4.83333 9C4.61232 9 4.40036 9.0878 4.24408 9.24408C4.0878 9.40036 4 9.61232 4 9.83333C4 10.0543 4.0878 10.2663 4.24408 10.4226C4.40036 10.5789 4.61232 10.6667 4.83333 10.6667ZM4.83333 14C5.05435 14 5.26631 13.9122 5.42259 13.7559C5.57887 13.5996 5.66667 13.3877 5.66667 13.1667C5.66667 12.9457 5.57887 12.7337 5.42259 12.5774C5.26631 12.4211 5.05435 12.3333 4.83333 12.3333C4.61232 12.3333 4.40036 12.4211 4.24408 12.5774C4.0878 12.7337 4 12.9457 4 13.1667C4 13.3877 4.0878 13.5996 4.24408 13.7559C4.40036 13.9122 4.61232 14 4.83333 14Z"
+                                                    fill="currentColor" />
+                                                <path
+                                                    fill-rule="evenodd"
+                                                    clip-rule="evenodd"
+                                                    d="M4.83268 0.453125C4.99844 0.453125 5.15741 0.518973 5.27462 0.636183C5.39183 0.753394 5.45768 0.912365 5.45768 1.07812V1.71396C6.00935 1.70312 6.61685 1.70312 7.28518 1.70312H10.7127C11.3818 1.70312 11.9893 1.70312 12.541 1.71396V1.07812C12.541 0.912365 12.6069 0.753394 12.7241 0.636183C12.8413 0.518973 13.0003 0.453125 13.166 0.453125C13.3318 0.453125 13.4907 0.518973 13.608 0.636183C13.7252 0.753394 13.791 0.912365 13.791 1.07812V1.76729C14.0077 1.78396 14.2127 1.80479 14.4068 1.83063C15.3835 1.96229 16.1743 2.23896 16.7985 2.86229C17.4218 3.48646 17.6985 4.27729 17.8302 5.25396C17.9577 6.20396 17.9577 7.41646 17.9577 8.94812V10.7081C17.9577 12.2398 17.9577 13.4531 17.8302 14.4023C17.6985 15.379 17.4218 16.1698 16.7985 16.794C16.1743 17.4173 15.3835 17.694 14.4068 17.8256C13.4568 17.9531 12.2443 17.9531 10.7127 17.9531H7.28602C5.75435 17.9531 4.54102 17.9531 3.59185 17.8256C2.61518 17.694 1.82435 17.4173 1.20018 16.794C0.576849 16.1698 0.300182 15.379 0.168516 14.4023C0.0410156 13.4523 0.0410156 12.2398 0.0410156 10.7081V8.94812C0.0410156 7.41646 0.0410156 6.20312 0.168516 5.25396C0.300182 4.27729 0.576849 3.48646 1.20018 2.86229C1.82435 2.23896 2.61518 1.96229 3.59185 1.83063C3.78602 1.80479 3.99185 1.78396 4.20768 1.76729V1.07812C4.20768 0.912365 4.27353 0.753394 4.39074 0.636183C4.50795 0.518973 4.66692 0.453125 4.83268 0.453125ZM3.75768 3.06979C2.92018 3.18229 2.43685 3.39396 2.08435 3.74646C1.73185 4.09896 1.52018 4.58229 1.40768 5.42062C1.38852 5.56229 1.37268 5.71229 1.35935 5.86979H16.6393C16.626 5.71146 16.6102 5.56229 16.591 5.41979C16.4785 4.58229 16.2668 4.09896 15.9143 3.74646C15.5618 3.39396 15.0785 3.18229 14.2402 3.06979C13.3843 2.95479 12.2552 2.95312 10.666 2.95312H7.33268C5.74352 2.95312 4.61518 2.95479 3.75768 3.06979ZM1.29102 8.99479C1.29102 8.28312 1.29102 7.66396 1.30185 7.11979H16.6968C16.7077 7.66396 16.7077 8.28312 16.7077 8.99479V10.6615C16.7077 12.2506 16.706 13.3798 16.591 14.2365C16.4785 15.074 16.2668 15.5573 15.9143 15.9098C15.5618 16.2623 15.0785 16.474 14.2402 16.5865C13.3843 16.7015 12.2552 16.7031 10.666 16.7031H7.33268C5.74352 16.7031 4.61518 16.7015 3.75768 16.5865C2.92018 16.474 2.43685 16.2623 2.08435 15.9098C1.73185 15.5573 1.52018 15.074 1.40768 14.2356C1.29268 13.3798 1.29102 12.2506 1.29102 10.6615V8.99479Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            July 01, 2025
+                                        </div>
+                                    </div>
+                                    <h2 class="card-blog-heading heading text-22">
+                                        <a href="#" class="heading text-22">
+                                            History in the Making: Lab of Future
+                                        </a>
+                                    </h2>
+                                </div>
+                                <a
+                                    class="card-blog-bottom"
+                                    href="#"
+                                    aria-label="Blog details">
+                                    <span class="blog-tag subheading subheading-bg text-16 fw-500">Lab of Future</span>
+                                    <div class="media">
+                                        <img
+                                            src="assets/img/cmg/orbito.webp"
+                                            alt="blog image"
+                                            width="1000"
+                                            height="707"
+                                            loading="lazy">
+                                    </div>
+                                    <div class="buttons">
+                                        <div
+                                            class="button button--primary">
+                                            Read More
+                                            <svg
+                                                viewBox="0 0 11 10"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M2.16668 0.833333C2.16668 0.61232 2.25448 0.400358 2.41076 0.244078C2.56704 0.0877975 2.779 0 3.00001 0H9.66668C9.88769 0 10.0997 0.0877975 10.2559 0.244078C10.4122 0.400358 10.5 0.61232 10.5 0.833333V7.5C10.5 7.72101 10.4122 7.93297 10.2559 8.08926C10.0997 8.24554 9.88769 8.33333 9.66668 8.33333C9.44567 8.33333 9.2337 8.24554 9.07742 8.08926C8.92114 7.93297 8.83335 7.72101 8.83335 7.5V2.845L1.92251 9.75583C1.76535 9.90763 1.55484 9.99163 1.33635 9.98973C1.11785 9.98783 0.908839 9.90019 0.754332 9.74568C0.599825 9.59118 0.512184 9.38216 0.510285 9.16367C0.508387 8.94517 0.592382 8.73467 0.744181 8.5775L7.65501 1.66667H3.00001C2.779 1.66667 2.56704 1.57887 2.41076 1.42259C2.25448 1.26631 2.16668 1.05435 2.16668 0.833333Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="buttons buttons-discover" data-aos="fade-up" data-aos-delay="100">
+                        <a
+                            href="#"
+                            class="button button--primary"
+                            aria-label="Discover more blog posts">
+                            Discover More
+                            <span class="svg-wrapper">
+                                <svg
+                                    class="icon-20"
+                                    width="20"
+                                    height="20"
+                                    viewBox="0 0 20 20"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M13.3365 7.84518L6.16435 15.0173L4.98584 13.8388L12.158 6.66667H5.83652V5H15.0032V14.1667H13.3365V7.84518Z"
+                                        fill="CurrentColor" />
+                                </svg>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <!-- Footer Main -->
+        <div
+            class="footer-main bg-contain">
+            <div class="footer-top">
+                <div class="container-fluid">
+                    <div class="row footer-custom-row">
+                        <div class="col-12 col-md-6">
+                            <div
+                                class="footer-widget footer-widget-brand"
+                                data-aos="fade-up"
+                                data-aos-anchor=".footer-top">
+                                <a class="footer-logo" href="#" aria-label="Consulo Logo">
+                                    <img
+                                        src="assets/img/chandramani-logo-2.png"
+                                        alt="Chandramari Group"
+                                        width="250"
+                                        height="32"
+                                        loading="lazy" style="filter: brightness(0) invert(1);">
+                                </a>
+                                <p class="text text-16">At Chandramari Group, we believe in creating impact through boundless innovation. Our journey is driven by a passion for excellence and a commitment to transform visionary ideas into meaningful realities. </p>
+                                <ul
+                                    class="social-icons list-unstyled"
+                                    data-aos="fade-up"
+                                    data-aos-anchor=".footer-top">
+                                    <li>
+                                        <a
+                                            class="social-link text"
+                                            href="#">
+                                            <svg
+                                                width="10"
+                                                height="18"
+                                                viewBox="0 0 10 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M6.66634 10.2552H8.74967L9.58301 6.92188H6.66634V5.25521C6.66634 4.39739 6.66634 3.58854 8.33301 3.58854H9.58301V0.788625C9.31159 0.752583 8.28551 0.671875 7.20209 0.671875C4.94001 0.671875 3.33301 2.05259 3.33301 4.5883V6.92188H0.833008V10.2552H3.33301V17.3385H6.66634V10.2552Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            <span class="visually-hidden">Facebook</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="social-link text"
+                                            href="#">
+                                            <svg
+                                                width="17"
+                                                height="16"
+                                                viewBox="0 0 17 16"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M3.78357 2.16742C3.78326 2.84601 3.37157 3.45666 2.74262 3.71142C2.11367 3.96619 1.39306 3.81419 0.920587 3.32711C0.448112 2.84001 0.318129 2.11511 0.59192 1.49421C0.86572 0.873305 1.48862 0.480397 2.1669 0.500755C3.0678 0.527797 3.78398 1.26612 3.78357 2.16742ZM3.83357 5.06742H0.500237V15.5007H3.83357V5.06742ZM9.10025 5.06742H5.78357V15.5007H9.06692V10.0257C9.06692 6.97573 13.0419 6.6924 13.0419 10.0257V15.5007H16.3336V8.8924C16.3336 3.75075 10.4503 3.94242 9.06692 6.4674L9.10025 5.06742Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            <span class="visually-hidden">Linkedin</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="social-link text"
+                                            href="#">
+                                            <svg
+                                                width="18"
+                                                height="14"
+                                                viewBox="0 0 18 14"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M17.5104 1.71289C16.8743 1.9943 16.1996 2.17914 15.5088 2.26127C16.2366 1.82561 16.7812 1.14026 17.0411 0.332886C16.3573 0.739186 15.6088 1.02515 14.8282 1.17835C14.1693 0.475394 13.2483 0.0770356 12.2848 0.0781272C10.3605 0.0781272 8.79975 1.63835 8.79975 3.56354C8.79975 3.83666 8.83109 4.10153 8.88967 4.35709C5.99206 4.21121 3.42506 2.82455 1.70565 0.715686C1.39608 1.24757 1.23338 1.85216 1.2342 2.46757C1.2342 3.67667 1.84967 4.74388 2.78458 5.36868C2.23115 5.35118 1.6899 5.20171 1.20599 4.93262C1.20545 4.94726 1.20545 4.9619 1.20545 4.97574C1.20545 6.66484 2.40683 8.07384 4.00166 8.39376C3.70234 8.47476 3.3936 8.51568 3.08352 8.51543C2.85831 8.51543 2.63976 8.49468 2.42733 8.45393C2.8711 9.83826 4.15739 10.8461 5.683 10.8738C4.44845 11.8427 2.92391 12.3683 1.35453 12.3661C1.07677 12.3663 0.799246 12.3499 0.523438 12.3171C2.1167 13.3413 3.97127 13.8849 5.86535 13.8829C12.2763 13.8829 15.7817 8.57243 15.7817 3.9671C15.7817 3.81643 15.778 3.66523 15.7713 3.51615C16.4536 3.02322 17.0425 2.41257 17.5104 1.71289Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            <span class="visually-hidden">Twitter</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            class="social-link text"
+                                            href="#">
+                                            <svg
+                                                width="18"
+                                                height="18"
+                                                viewBox="0 0 18 18"
+                                                fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M9.85724 0.671875C10.7951 0.673425 11.2703 0.678392 11.681 0.690617L11.8427 0.6959C12.0296 0.702542 12.2139 0.710875 12.4362 0.721292C13.3229 0.762267 13.9278 0.902542 14.4591 1.10879C15.0083 1.3206 15.4722 1.60671 15.9354 2.06991C16.3979 2.5331 16.6841 2.99837 16.8966 3.54629C17.1021 4.07685 17.2424 4.68241 17.2841 5.56921C17.294 5.79143 17.302 5.97577 17.3086 6.16263L17.3138 6.32437C17.326 6.73499 17.3316 7.21032 17.3333 8.14818L17.334 8.76952C17.3341 8.84543 17.3341 8.92377 17.3341 9.0046L17.334 9.23968L17.3335 9.8611C17.3319 10.7989 17.327 11.2743 17.3147 11.6848L17.3094 11.8466C17.3028 12.0335 17.2945 12.2178 17.2841 12.44C17.2431 13.3268 17.1021 13.9317 16.8966 14.4629C16.6847 15.0123 16.3979 15.4762 15.9354 15.9393C15.4722 16.4018 15.0062 16.6879 14.4591 16.9004C13.9278 17.106 13.3229 17.2463 12.4362 17.2879C12.2139 17.2978 12.0296 17.3059 11.8427 17.3124L11.681 17.3177C11.2703 17.3299 10.7951 17.3354 9.85724 17.3373L9.23582 17.3379C9.1599 17.3379 9.08157 17.3379 9.00074 17.3379H8.76565L8.14424 17.3373C7.2064 17.3358 6.73109 17.3309 6.32046 17.3186L6.15873 17.3134C5.97185 17.3067 5.78752 17.2983 5.5653 17.2879C4.67849 17.247 4.07433 17.106 3.54239 16.9004C2.99377 16.6887 2.52919 16.4018 2.06599 15.9393C1.6028 15.4762 1.31739 15.0102 1.10489 14.4629C0.898636 13.9317 0.759052 13.3268 0.717386 12.44C0.707486 12.2178 0.69941 12.0335 0.692869 11.8466L0.687627 11.6848C0.675435 11.2743 0.669877 10.7989 0.668077 9.8611L0.667969 8.14818C0.669519 7.21032 0.674477 6.73499 0.686702 6.32437L0.691994 6.16263C0.698635 5.97577 0.706969 5.79143 0.717386 5.56921C0.758352 4.68171 0.898636 4.07754 1.10489 3.54629C1.31669 2.99768 1.6028 2.5331 2.06599 2.06991C2.52919 1.60671 2.99447 1.32129 3.54239 1.10879C4.07364 0.902542 4.6778 0.762958 5.5653 0.721292C5.78752 0.7114 5.97185 0.703325 6.15873 0.696783L6.32046 0.691542C6.73109 0.679342 7.2064 0.673783 8.14424 0.671983L9.85724 0.671875ZM9.00074 4.83796C6.6983 4.83796 4.83405 6.70423 4.83405 9.0046C4.83405 11.307 6.70033 13.1713 9.00074 13.1713C11.3032 13.1713 13.1674 11.305 13.1674 9.0046C13.1674 6.70221 11.3011 4.83796 9.00074 4.83796ZM9.00074 6.50462C10.3815 6.50462 11.5007 7.62352 11.5007 9.0046C11.5007 10.3853 10.3818 11.5046 9.00074 11.5046C7.61999 11.5046 6.50072 10.3858 6.50072 9.0046C6.50072 7.62385 7.61957 6.50462 9.00074 6.50462ZM13.3757 3.58796C12.8013 3.58796 12.3341 4.05455 12.3341 4.62892C12.3341 5.20329 12.8007 5.6706 13.3757 5.6706C13.9501 5.6706 14.4174 5.20402 14.4174 4.62892C14.4174 4.05455 13.9493 3.58724 13.3757 3.58796Z"
+                                                    fill="currentColor" />
+                                            </svg>
+                                            <span class="visually-hidden">Instagram</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div
+                                class="footer-widget footer-widget-menu"
+                                data-aos="fade-up"
+                                data-aos-anchor=".footer-top">
+                                <div class="widget-heading heading text-22">Quick Link</div>
+                                <ul class="footer-menu list-unstyled">
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="About Us">
+                                            Home
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Our Team">
+                                            About Us
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Pricing Plans">
+                                            Our Verticals
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Blogs">
+                                            Our Events
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Blogs">
+                                            Contact Us
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div
+                                class="footer-widget footer-widget-menu"
+                                data-aos="fade-up"
+                                data-aos-anchor=".footer-top">
+                                <div class="widget-heading heading text-22">Sectors</div>
+                                <ul class="footer-menu list-unstyled">
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="UI/UX Design">
+                                            Service
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="App Development">
+                                            Interior Fit-outs
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Digital Marketing">
+                                            Educational
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Web Development">Technologies</a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Cyber Security">
+                                            Food & Beverages
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <div
+                                class="footer-widget footer-widget-menu"
+                                data-aos="fade-up"
+                                data-aos-anchor=".footer-top">
+                                <div class="widget-heading heading text-22">Contact Details</div>
+                                <ul class="footer-menu list-unstyled">
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="Privacy Policy">
+                                            Mail ID : murali@toprockinteriors.com
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="#"
+                                            class="text text-16 link"
+                                            aria-label="FAQ">
+
+                                            Address : Office No. 1, Al Qusais Industrial Area 2, Al Qusais, Dubai
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container-fluid">
+                    <div class="row footer-bottom-row">
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <div class="footer-copyright text text-16">
+                                Copyright ©<span class="current-year"></span> Chandramari Group.
+                                All rights reserved.
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-6">
+                            <ul class="footer-menu footer-policies list-unstyled">
+                                <li>
+                                    <a
+                                        href="#"
+                                        class="text text-16 link"
+                                        aria-label="Privacy Policy">
+                                        Privacy Policy
+                                    </a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="#"
+                                        class="text text-16 link"
+                                        aria-label="FAQ">
+                                        Faqs
+                                    </a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="#"
+                                        class="text text-16 link"
+                                        aria-label="FAQ">
+                                        Contact
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Modal and Drawer Overlay -->
+    <drawer-opener id="drawer-overlay"></drawer-opener>
+
+    <!-- Scroll to Top Button -->
+    <scroll-top>
+        <div class="scroll-to-top">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5" />
+            </svg>
+        </div>
+    </scroll-top>
+
+    <!-- all js -->
+    <script src="assets/js/vendor.js" defer></script>
+    <script src="assets/js/main.js" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,168 @@
+.team-details .content-info {
+  -webkit-padding-start: 80px;
+  padding-inline-start: 80px; }
+
+.team-details .content-info .info-desig {
+  -webkit-margin-before: 18px;
+  margin-block-start: 18px; }
+
+.team-details .content-info .social-icons,
+.team-details .content-info .info-desc {
+  -webkit-margin-before: 40px;
+  margin-block-start: 40px; }
+
+.team-details .content-info .phn-number {
+  -webkit-margin-before: 44px;
+  margin-block-start: 44px; }
+
+.team-details .content-info .email {
+  -webkit-margin-before: 18px;
+  margin-block-start: 18px; }
+
+.team-details .content-info .email,
+.team-details .content-info .phn-number {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 10px; }
+
+.team-details .social-link {
+  --color-background: rgba(242, 242, 242, 1);
+  background-color: var(--color-background);
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s; }
+
+.team-details .social-link:hover {
+  --color-background: rgba(28, 37, 57, 1);
+  --color-foreground: rgba(255, 255, 255, 1); }
+
+.td-column {
+  -ms-flex-item-align: stretch;
+  -ms-grid-row-align: stretch;
+  align-self: stretch;
+  height: auto; }
+
+.td-media-wrap {
+  height: 100%;
+  position: relative; }
+
+.td-media {
+  height: 100%; }
+
+.td-media img {
+  -o-object-fit: cover;
+  object-fit: cover;
+  height: 100%; }
+
+.text-absolute {
+  --color-foreground-heading: rgba(255, 255, 255, 1);
+  --color-background: rgba(28, 37, 57, 1);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  background: var(--color-background);
+  color: var(--color-foreground-heading);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  border-radius: 100px;
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  right: -40px;
+  -webkit-writing-mode: vertical-lr;
+  -ms-writing-mode: tb-lr;
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  padding: 32px;
+  height: 100%;
+  max-height: 410px;
+  text-align: center; }
+
+.team-progress > .heading + .text,
+.team-about > .heading + .text,
+.team-bio > .heading + .text {
+  -webkit-margin-before: 36px;
+  margin-block-start: 36px; }
+
+.progress-wrap {
+  -webkit-margin-before: 32px;
+  margin-block-start: 32px; }
+
+.progress-wrap > .progress-item:not(:first-child) {
+  -webkit-margin-before: 28px;
+  margin-block-start: 28px; }
+
+.progress-item > .heading + .progress-container {
+  -webkit-margin-before: 16px;
+  margin-block-start: 16px; }
+
+.progress-item .progress-container {
+  --color-background: rgba(242, 242, 242, 1);
+  position: relative;
+  width: 100%;
+  height: 14px;
+  border-radius: 6px;
+  background-color: var(--color-background); }
+
+.progress-item .progress--bar {
+  --color-background: rgba(28, 37, 57, 1);
+  position: absolute;
+  left: 4px;
+  top: 50%;
+  width: 80%;
+  height: 8px;
+  border-radius: 6px;
+  background-color: var(--color-background);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%); }
+
+@media (max-width: 1199px) {
+  .team-details .content-info {
+    -webkit-padding-start: 60px;
+    padding-inline-start: 60px; }
+  .text-absolute {
+    padding: 25px; } }
+
+@media (max-width: 991px) {
+  .team-details .content-info {
+    -webkit-padding-start: 40px;
+    padding-inline-start: 40px; }
+  .team-progress {
+    -webkit-margin-before: 40px;
+    margin-block-start: 40px; }
+  .text-absolute {
+    padding: 20px;
+    right: -35px; } }
+
+@media (max-width: 767px) {
+  .team-details .content-info {
+    -webkit-padding-start: 0;
+    padding-inline-start: 0;
+    -webkit-margin-before: 50px;
+    margin-block-start: 50px; }
+  .text-absolute {
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: auto;
+    right: auto;
+    left: 50%;
+    bottom: -30px;
+    width: calc(100% - 20%);
+    max-height: 60px;
+    -webkit-writing-mode: horizontal-tb;
+    -ms-writing-mode: lr-tb;
+    writing-mode: horizontal-tb;
+    padding: 16px; } }

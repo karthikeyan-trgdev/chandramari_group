@@ -1,0 +1,40 @@
+.faq .section-headings {
+  -webkit-padding-end: 100px;
+  padding-inline-end: 100px;
+  position: relative;
+  height: 100%; }
+
+.faq .accordion-list > div + div {
+  -webkit-margin-before: 24px;
+  margin-block-start: 24px; }
+
+.faq .image-absolute {
+  position: absolute;
+  bottom: 0;
+  right: 70px;
+  -webkit-padding-end: 100px;
+  padding-inline-end: 100px; }
+
+@media (max-width: 1199px) {
+  .faq .section-headings {
+    -webkit-padding-end: 0;
+    padding-inline-end: 0; }
+  .faq .image-absolute {
+    bottom: 50px;
+    right: 0;
+    -webkit-padding-end: 50px;
+    padding-inline-end: 50px; } }
+
+@media (max-width: 991px) {
+  .faq .accordion-list {
+    -webkit-margin-before: 40px;
+    margin-block-start: 40px; }
+  .faq .image-absolute {
+    bottom: -40px;
+    -webkit-padding-end: 0;
+    padding-inline-end: 0; } }
+
+@media (max-width: 767px) {
+  .image-absolute img {
+    max-width: 90px;
+    height: auto; } }

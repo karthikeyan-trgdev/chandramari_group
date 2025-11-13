@@ -1,0 +1,94 @@
+.running-content .content-inner {
+  overflow: hidden;
+  background-color: var(--color-background, rgba(255, 255, 255, 0)); }
+
+.running-content-bg {
+  --color-background: rgba(28, 37, 57, 0.1); }
+
+.running-content .logos-background {
+  background-image: -webkit-gradient(linear, left top, right top, from(#e1e2ee), color-stop(15%, #1c253900), to(#e3e1ee));
+  background-image: -webkit-linear-gradient(left, #e1e2ee, #1c253900 15% 85%, #e3e1ee);
+  background-image: -o-linear-gradient(left, #e1e2ee, #1c253900 15% 85%, #e3e1ee);
+  background-image: linear-gradient(90deg, #e1e2ee, #1c253900 15% 85%, #e3e1ee);
+  inset: 0%; }
+
+.running-content .content-lists {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  white-space: nowrap;
+  gap: 80px; }
+
+.running-content .content-lists:hover {
+  -webkit-animation-play-state: paused;
+  animation-play-state: paused; }
+
+.running-content .content-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  gap: 80px; }
+
+.running-content .content-link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-decoration: none; }
+
+.running-animation {
+  will-change: transform;
+  -webkit-animation: scroll 20s linear infinite;
+  animation: scroll 20s linear infinite; }
+
+.running-content .content-link img {
+  -o-object-fit: contain;
+  object-fit: contain; }
+
+@-webkit-keyframes scroll {
+  from {
+    -webkit-transform: translateX(0);
+    transform: translateX(0); }
+  to {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%); } }
+
+@keyframes scroll {
+  from {
+    -webkit-transform: translateX(0);
+    transform: translateX(0); }
+  to {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%); } }
+
+@media (max-width: 991px) {
+  .running-content .content-item,
+  .running-content .content-lists {
+    gap: 60px; } }
+
+@media (max-width: 991px) {
+  .running-content .content-item,
+  .running-content .content-lists {
+    gap: 48px; } }

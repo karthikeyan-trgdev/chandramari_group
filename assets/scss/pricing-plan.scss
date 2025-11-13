@@ -1,0 +1,84 @@
+.pricing-plan {
+  overflow: hidden;
+}
+
+.pricing-plan-page {
+  position: relative;
+}
+
+.pricing-plan-page .card-pricing {
+  --color-card-background: rgba(242, 242, 242, 1);
+  --color-background: rgba(255, 255, 255, 1);
+}
+
+.card-pricing {
+  --color-card-background: rgba(255, 255, 255, 1);
+  --color-background: rgba(242, 242, 242, 1);
+  --color-foreground: rgba(32, 40, 45, 1);
+  --color-foreground-heading: rgba(32, 40, 45, 1);
+  --color-foreground-subheading: rgba(0, 0, 0, 1);
+  --color-border: rgba(93, 102, 111, 0.1);
+  --style-border-width: 1px;
+  background-color: var(--color-background);
+  padding: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.card-pricing.active {
+  --color-card-background: rgba(32, 40, 45, 1);
+  --color-foreground: rgba(242, 242, 242, 1);
+  --color-foreground-heading: rgba(255, 255, 255, 1);
+  --color-foreground-subheading: rgba(255, 255, 255, 1);
+  --color-border: rgba(255, 255, 255, 0.3);
+}
+
+.card-pricing-headings {
+  background-color: var(--color-card-background);
+  padding: 24px;
+}
+
+.card-pricing-headings .heading + .text {
+  margin-block-start: 10px;
+}
+
+.pricing-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  border-top: var(--style-border-width) solid var(--color-border);
+  padding-block-start: 24px;
+  margin-block-start: 20px;
+}
+
+.pricing-box * {
+  line-height: 1;
+}
+
+.pricing-box .subheading-monthly {
+  position: relative;
+  top: -10px;
+  opacity: 0.75;
+}
+
+.card-pricing .button {
+  padding: 15px;
+  width: 100%;
+}
+
+.card-pricing .buttons svg {
+  width: 12px;
+  height: 12px;
+}
+
+.card-pricing .text-lists .text-item {
+  --color-foreground: rgba(32, 40, 45, 1);
+}
+
+@media (max-width: 767px) {
+  .card-pricing,
+  .card-pricing-headings {
+    padding: 20px 15px;
+  }
+}
