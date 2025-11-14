@@ -387,21 +387,30 @@ class ProjectSlider extends HTMLElement {
   constructor() {
     super();
 
-    this.swiper = this.querySelector(".swiper");
+    this.swiperEl = this.querySelector(".swiper");
     this.next = this.querySelector(".swiper-button-next");
     this.prev = this.querySelector(".swiper-button-prev");
   }
 
   connectedCallback() {
     this.init();
+    this.hoverPause();
   }
 
   init() {
-    this.slider = new Swiper(this.swiper, {
+    this.slider = new Swiper(this.swiperEl, {
+      loop: true,
+
+      autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
+      },
+
       navigation: {
         nextEl: this.next,
         prevEl: this.prev,
       },
+
       breakpoints: {
         0: {
           spaceBetween: 20,
@@ -426,9 +435,22 @@ class ProjectSlider extends HTMLElement {
       },
     });
   }
+
+  hoverPause() {
+    // Pause on hover
+    this.swiperEl.addEventListener("mouseenter", () => {
+      this.slider.autoplay.stop();
+    });
+
+    // Resume on leave
+    this.swiperEl.addEventListener("mouseleave", () => {
+      this.slider.autoplay.start();
+    });
+  }
 }
 
 customElements.define("project-slider", ProjectSlider);
+
 
 class CounterUp extends HTMLElement {
   constructor() {

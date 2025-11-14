@@ -6831,3 +6831,24 @@ footer .logo-with-newsletter .social-link:hover {
   max-width: 100% !important;
 }
 }
+
+.our-verticals-bg {
+  background-image: url("../img/cmg/bg-patterm.jpg");
+  background-size: cover;
+  background-position: top;
+  padding: 100px 0;
+  position: relative; /* added */
+  z-index: 1;
+}
+
+.our-verticals-bg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(242, 242, 242, 1);
+  opacity: 0.95;
+  z-index: -1;
+}
